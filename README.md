@@ -7,6 +7,7 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computer-science/)
 
 ## Bibliographies
+* [Philosophy of Computer Science at DBLP](https://dblp.uni-trier.de/search?q=philosophy%20of%20computer%20science)
 
 ## News
 
