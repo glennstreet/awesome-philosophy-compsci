@@ -4,7 +4,18 @@ A curated list of awesome Philosophy of Computer Science resources.
 ## Related Lists 
 
 ## Encyclopedia Entries
-* [Philosophy of Computer Science (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/computer-science/)
+### Stanford Encyclopedia of Philosophy
+* [Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
+* [Logic and Artificial Intelligence](https://plato.stanford.edu/entries/logic-ai/)
+* [Computability and Complexity](https://plato.stanford.edu/entries/computability/)
+* [Computation in Physical Systems](https://plato.stanford.edu/entries/computation-physicalsystems/)
+* [Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/)
+* [Computer and Information Ethics](https://plato.stanford.edu/entries/ethics-computer/)
+* [Computing and Moral Responsibility](https://plato.stanford.edu/entries/computing-responsibility/)
+* [Recursive Functions](https://plato.stanford.edu/entries/recursive-functions/)
+* [Information](https://plato.stanford.edu/entries/information/)
+* [Semantic Conceptions of Information](https://plato.stanford.edu/entries/information-semantic/)
+* [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 
 ## Bibliographies
 * [Philosophy of Computer Science at DBLP](https://dblp.uni-trier.de/search?q=philosophy%20of%20computer%20science)
