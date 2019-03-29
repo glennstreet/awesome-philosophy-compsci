@@ -16,9 +16,13 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [Information](https://plato.stanford.edu/entries/information/)
 * [Semantic Conceptions of Information](https://plato.stanford.edu/entries/information-semantic/)
 * [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
+* [Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
 
 ## Bibliographies
 * [Philosophy of Computer Science at DBLP](https://dblp.uni-trier.de/search?q=philosophy%20of%20computer%20science)
+
+## Ontology of Philosophy of Computer Science
+* [Internet Philosophy Ontology Project](https://www.inphoproject.org/taxonomy/2301)
 
 ## News
 
@@ -38,7 +42,8 @@ A curated list of awesome Philosophy of Computer Science resources.
 
 ## University Departments of Philosophy
 
-## Magazines
+## Magazines and Newsletters
+* [Newsletter on Philosophy and Computers - American Philosophical Association](https://www.apaonline.org/page/computers_newsletter)
 
 ## Podcasts
 
