@@ -45,7 +45,8 @@ A curated list of awesome Philosophy of Computer Science resources.
 * Prolog
     * [SWI-Prolog](http://www.swi-prolog.org)
 
-## University Departments of Philosophy
+## University Departments and Research Centers
+* [Philosophy of Computer Science - Utrecht University](http://www.cs.uu.nl/groups/AD/index-phil.html)
 
 ## Magazines and Newsletters
 * [Newsletter on Philosophy and Computers - American Philosophical Association](https://www.apaonline.org/page/computers_newsletter)
