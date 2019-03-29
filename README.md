@@ -21,6 +21,11 @@ A curated list of awesome Philosophy of Computer Science resources.
 ## Bibliographies
 * [Philosophy of Computer Science at DBLP](https://dblp.uni-trier.de/search?q=philosophy%20of%20computer%20science)
 
+## Books
+### Freely available
+* [Philosophy of Computer Science by William Rapaport](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
+* [Think Complexity, Second Edition by Allen Downey](http://greenteapress.com/wp/think-complexity-2e/)
+
 ## Ontology of Philosophy of Computer Science
 * [Internet Philosophy Ontology Project](https://www.inphoproject.org/taxonomy/2301)
 
