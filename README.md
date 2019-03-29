@@ -19,6 +19,7 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
 
 ## Bibliographies
+* [Philosophy of Computing and Information at PhilPapers](https://philpapers.org/browse/philosophy-of-computing-and-information)
 * [Philosophy of Computer Science at DBLP](https://dblp.uni-trier.de/search?q=philosophy%20of%20computer%20science)
 
 ## Books
@@ -31,7 +32,12 @@ A curated list of awesome Philosophy of Computer Science resources.
 
 ## News
 
+## Blogs
+* [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com)
+* [Shtetl-Optimized by Scott Aaronson](https://www.scottaaronson.com/blog/)
+
 ## Organizations and Societies
+* [International Association for Computing And Philosophy](http://www.iacap.org)
 
 ## Ethics
 
