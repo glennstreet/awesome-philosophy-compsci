@@ -39,8 +39,6 @@ A curated list of awesome Philosophy of Computer Science resources.
 ## Organizations and Societies
 * [International Association for Computing And Philosophy](http://www.iacap.org)
 
-## Ethics
-
 ## Logic
 * [Logic Matters](https://www.logicmatters.net)
 * [Open Logic Project](http://openlogicproject.org)
@@ -48,8 +46,24 @@ A curated list of awesome Philosophy of Computer Science resources.
 ## Programming Languages
 * Lisp
     * [Common Lisp](https://common-lisp.net)
+	* [Clojure](https://clojure.org)
 * Prolog
     * [SWI-Prolog](http://www.swi-prolog.org)
+* Python
+    * [kanren - Logic Programming in Python](https://github.com/logpy/logpy)
+	* [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
+	
+## Digital Philosophy
+* [Articles tagged "digital humanities" at Daily Nous](http://dailynous.com/tag/digital-humanities/)
+* [Chris Alen Sula](http://chrisalensula.org)
+* [Philosopher's Web](https://kumu.io/GOliveira/philosophers-web#map-b9Ts7W5r)
+
+    "A comprehensive map of all influential relationships in philosophy according to Wikipedia."
+* [The Philosophome](http://ontology.buffalo.edu/philosophome.org.html)
+* [Transcribing Bentham](https://blogs.ucl.ac.uk/transcribe-bentham/)
+* [Why and How: Exploring the Significance of Digital Humanities for Philosophy](https://digitalscholarship.files.wordpress.com/2013/02/spirowhydhapaphilosophy2013fnal.pdf)
+
+    This is a presentation by [Lisa Spiro](https://digitalscholarship.wordpress.com)
 
 ## University Departments and Research Centers
 * [Philosophy of Computer Science - Utrecht University](http://www.cs.uu.nl/groups/AD/index-phil.html)
@@ -62,5 +76,6 @@ A curated list of awesome Philosophy of Computer Science resources.
 ## Forums
 
 ## Individual Philosophers
-
-
+* [Peter Bradley](http://www.kaley-bradley.com)
+* [Luciano Floridi](http://www.philosophyofinformation.net/about/)
+* [William J. Rapaport](https://cse.buffalo.edu/~rapaport/)
