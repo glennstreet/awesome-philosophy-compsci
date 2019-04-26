@@ -40,8 +40,11 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [International Association for Computing And Philosophy](http://www.iacap.org)
 
 ## Logic
+* [List of Computational Tools for Modal Logic](http://www.cs.man.ac.uk/~schmidt/tools/)
+* [Conan - A proof editor for first order logic](https://github.com/nonilole/Conan)
 * [Logic Matters](https://www.logicmatters.net)
 * [Open Logic Project](http://openlogicproject.org)
+
 
 ## Programming Languages
 * Lisp
