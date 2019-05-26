@@ -43,6 +43,7 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [List of Computational Tools for Modal Logic](http://www.cs.man.ac.uk/~schmidt/tools/)
 * [Conan - A proof editor for first order logic](https://github.com/nonilole/Conan)
 * [Logic Matters](https://www.logicmatters.net)
+* [Microsoft's Lean, an "open source theorem prover and programming language"](https://leanprover.github.io/)
 * [Open Logic Project](http://openlogicproject.org)
 
 
