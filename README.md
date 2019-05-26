@@ -50,6 +50,7 @@ A curated list of awesome Philosophy of Computer Science resources.
 ## Programming Languages
 * Lisp
     * [Common Lisp](https://common-lisp.net)
+        * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 	* [Clojure](https://clojure.org)
 * Prolog
     * [SWI-Prolog](http://www.swi-prolog.org)
