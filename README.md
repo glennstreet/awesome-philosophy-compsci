@@ -54,6 +54,8 @@ A curated list of awesome Philosophy of Computer Science resources.
 	* [Clojure](https://clojure.org)
 * Prolog
     * [SWI-Prolog](http://www.swi-prolog.org)
+    * A. Aaby's [A. Aaby's Prolog Tutorial](http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html)
+    * J.R. Fisher's [Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 * Python
     * [kanren - Logic Programming in Python](https://github.com/logpy/logpy)
 	* [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
