@@ -32,17 +32,27 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [Philosophy of Computer Science by William Rapaport](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
 * [Think Complexity, Second Edition by Allen Downey](http://greenteapress.com/wp/think-complexity-2e/)
 
+-------------------------------------------------------------------------------
+
 ## Ontology of Philosophy of Computer Science
 * [Internet Philosophy Ontology Project](https://www.inphoproject.org/taxonomy/2301)
 
+-------------------------------------------------------------------------------
+
 ## News
+
+-------------------------------------------------------------------------------
 
 ## Blogs
 * [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com)
 * [Shtetl-Optimized by Scott Aaronson](https://www.scottaaronson.com/blog/)
 
+-------------------------------------------------------------------------------
+
 ## Organizations and Societies
 * [International Association for Computing And Philosophy](http://www.iacap.org)
+
+-------------------------------------------------------------------------------
 
 ## Logic
 * [List of Computational Tools for Modal Logic](http://www.cs.man.ac.uk/~schmidt/tools/)
@@ -51,6 +61,7 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [Microsoft's Lean, an "open source theorem prover and programming language"](https://leanprover.github.io/)
 * [Open Logic Project](http://openlogicproject.org)
 
+-------------------------------------------------------------------------------
 
 ## Programming Languages
 * Lisp
@@ -64,7 +75,9 @@ A curated list of awesome Philosophy of Computer Science resources.
 * Python
     * [kanren - Logic Programming in Python](https://github.com/logpy/logpy)
 	* [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
-	
+
+-------------------------------------------------------------------------------
+
 ## Digital Philosophy
 * [Articles tagged "digital humanities" at Daily Nous](http://dailynous.com/tag/digital-humanities/)
 * [Chris Alen Sula](http://chrisalensula.org)
@@ -77,15 +90,25 @@ A curated list of awesome Philosophy of Computer Science resources.
 
     This is a presentation by [Lisa Spiro](https://digitalscholarship.wordpress.com)
 
+-------------------------------------------------------------------------------
+
 ## University Departments and Research Centers
 * [Philosophy of Computer Science - Utrecht University](http://www.cs.uu.nl/groups/AD/index-phil.html)
+
+-------------------------------------------------------------------------------
 
 ## Magazines and Newsletters
 * [Newsletter on Philosophy and Computers - American Philosophical Association](https://www.apaonline.org/page/computers_newsletter)
 
+-------------------------------------------------------------------------------
+
 ## Podcasts
 
+-------------------------------------------------------------------------------
+
 ## Forums
+
+-------------------------------------------------------------------------------
 
 ## Individual Philosophers
 * [Peter Bradley](http://www.kaley-bradley.com)
