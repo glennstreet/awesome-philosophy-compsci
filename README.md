@@ -1,7 +1,11 @@
 # Awesome Philosophy of Computer Science
 A curated list of awesome Philosophy of Computer Science resources.
 
-## Related Lists 
+## Related Sites
+* [PhiloComp](http://philocomp.net)
+>"The aim of this website is to highlight the many strong links between Philosophy and Computing, for the benefit of students (and potential students) of both disciplines:..."
+
+-------------------------------------------------------------------------------
 
 ## Encyclopedia Entries
 ### Stanford Encyclopedia of Philosophy
@@ -72,6 +76,7 @@ A curated list of awesome Philosophy of Computer Science resources.
     * [SWI-Prolog](http://www.swi-prolog.org)
     * A. Aaby's [Prolog Tutorial](http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html)
     * J.R. Fisher's [Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
+	
 * Python
     * [kanren - Logic Programming in Python](https://github.com/logpy/logpy)
 	* [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
