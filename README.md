@@ -73,7 +73,8 @@ A curated list of awesome Philosophy of Computer Science resources.
         * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
         * [Practical Common Lisp](http://www.gigamonkeys.com/book/)
 		>"If you think the greatest pleasure in programming comes from getting a lot done with code that simply and clearly expresses your intention, then programming in Common Lisp is likely to be about the most fun you can have with a computer. You'll get more done, faster, using it than you would using pretty much any other language."
-	* [Clojure](https://clojure.org)
+        * [Clojure](https://clojure.org)
+        * [Scheme](https://schemers.org)
 * Prolog
     * [SWI-Prolog](http://www.swi-prolog.org)
     * A. Aaby's [Prolog Tutorial](http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html)
