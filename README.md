@@ -80,6 +80,8 @@ A curated list of awesome Philosophy of Computer Science resources.
 * Python
     * [kanren - Logic Programming in Python](https://github.com/logpy/logpy)
 	* [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
+	* [tt - the Boolean expression toolbox](https://tt.brianwel.ch/en/latest/)
+	>> "tt (truth table) is a library aiming to provide a Pythonic toolkit for working with Boolean expressions and truth tables."
 
 -------------------------------------------------------------------------------
 
