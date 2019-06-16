@@ -64,6 +64,8 @@ A curated list of awesome Philosophy of Computer Science resources.
 * [Logic Matters](https://www.logicmatters.net)
 * [Microsoft's Lean, an "open source theorem prover and programming language"](https://leanprover.github.io/)
 * [Open Logic Project](http://openlogicproject.org)
+* [SymPy Logic Module](https://docs.sympy.org/latest/modules/logic.html)
+  >"The logic module for SymPy allows to form and manipulate logic expressions using symbolic and Boolean values."
 
 -------------------------------------------------------------------------------
 
