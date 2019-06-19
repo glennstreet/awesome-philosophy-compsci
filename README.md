@@ -43,10 +43,6 @@ A curated list of awesome Philosophy of Computer Science resources.
 
 -------------------------------------------------------------------------------
 
-## News
-
--------------------------------------------------------------------------------
-
 ## Blogs
 * [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com)
 * [Shtetl-Optimized by Scott Aaronson](https://www.scottaaronson.com/blog/)
