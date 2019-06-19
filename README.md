@@ -110,14 +110,6 @@ A curated list of awesome Philosophy of Computer Science resources.
 
 -------------------------------------------------------------------------------
 
-## Podcasts
-
--------------------------------------------------------------------------------
-
-## Forums
-
--------------------------------------------------------------------------------
-
 ## Individual Philosophers
 * [Peter Bradley](http://www.kaley-bradley.com)
 * [Luciano Floridi](http://www.philosophyofinformation.net/about/)
