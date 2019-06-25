@@ -43,10 +43,6 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 
 -------------------------------------------------------------------------------
 
-## News
-
--------------------------------------------------------------------------------
-
 ## Blogs
 * [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com)
 * [Shtetl-Optimized by Scott Aaronson](https://www.scottaaronson.com/blog/)
@@ -111,14 +107,6 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 
 ## Magazines and Newsletters
 * [Newsletter on Philosophy and Computers - American Philosophical Association](https://www.apaonline.org/page/computers_newsletter)
-
--------------------------------------------------------------------------------
-
-## Podcasts
-
--------------------------------------------------------------------------------
-
-## Forums
 
 -------------------------------------------------------------------------------
 
