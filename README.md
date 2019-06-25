@@ -121,3 +121,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 * [Philosophical Wordnets](https://github.com/mboudour/WordNets/tree/master/Philosophical%20WordNets)
 
 > Contributed by [Moses Boudorides](https://github.com/mboudour), a series of Jupyter notebooks showing sentence-co-occurring relationships among concepts. Works analyzed include Heidegger's "The Question Concerning Technology" and Nietzsche's "Thus Spake Zarathustra".
+
+## Software for Philosophers
+* [Hypernomicon](http://hypernomicon.org)
+> "Personal philosophy database software," created by [Jason Winning](http://jasonwinning.com).
