@@ -1,6 +1,31 @@
 # Awesome Philosophy and Computer Science
 A curated list of awesome resources that bridge Philosophy and Computer Science.
 
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [Awesome Philosophy and Computer Science](#awesome-philosophy-and-computer-science)
+    - [Contents](#contents)
+    - [Related Sites](#related-sites)
+    - [Encyclopedia Entries](#encyclopedia-entries)
+        - [Stanford Encyclopedia of Philosophy](#stanford-encyclopedia-of-philosophy)
+    - [Bibliographies](#bibliographies)
+    - [Books](#books)
+        - [Freely available](#freely-available)
+    - [Ontology of Philosophy of Computer Science](#ontology-of-philosophy-of-computer-science)
+    - [Blogs](#blogs)
+    - [Organizations and Societies](#organizations-and-societies)
+    - [Logic](#logic)
+    - [Programming Languages](#programming-languages)
+    - [Digital Philosophy](#digital-philosophy)
+    - [University Departments and Research Centers](#university-departments-and-research-centers)
+    - [Magazines and Newsletters](#magazines-and-newsletters)
+    - [Individual Philosophers](#individual-philosophers)
+    - [Philosophical Networks](#philosophical-networks)
+    - [Software for Philosophers](#software-for-philosophers)
+
+<!-- markdown-toc end -->
+
 ## Related Sites
 * [PhiloComp](http://philocomp.net)
 >"The aim of this website is to highlight the many strong links between Philosophy and Computing, for the benefit of students (and potential students) of both disciplines:..."
