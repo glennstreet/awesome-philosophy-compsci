@@ -1,5 +1,5 @@
-# Awesome Philosophy of Computer Science
-A curated list of awesome Philosophy of Computer Science resources.
+# Awesome Philosophy and Computer Science
+A curated list of awesome resources that bridge Philosophy and Computer Science.
 
 ## Related Sites
 * [PhiloComp](http://philocomp.net)
