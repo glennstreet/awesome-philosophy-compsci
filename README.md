@@ -114,3 +114,10 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 * [Peter Bradley](http://www.kaley-bradley.com)
 * [Luciano Floridi](http://www.philosophyofinformation.net/about/)
 * [William J. Rapaport](https://cse.buffalo.edu/~rapaport/)
+
+-------------------------------------------------------------------------------
+
+## Philosophical Networks
+* [Philosophical Wordnets](https://github.com/mboudour/WordNets/tree/master/Philosophical%20WordNets)
+
+> Contributed by [Moses Boudorides](https://github.com/mboudour), a series of Jupyter notebooks showing sentence-co-occurring relationships among concepts. Works analyzed include Heidegger's "The Question Concerning Technology" and Nietzsche's "Thus Spake Zarathustra".
