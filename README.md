@@ -80,13 +80,23 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 -------------------------------------------------------------------------------
 
 ## Logic
-* [List of Computational Tools for Modal Logic](http://www.cs.man.ac.uk/~schmidt/tools/)
+* [An Automated Modal Reasoner](https://briantackett.pythonanywhere.com)
+  >"This program takes lists of formalized sentences and checks them for consistency or validity in Propositional Modal Logic (S5 Axiom System)."
+  Created by [Brian Tackett](https://briantackett.pythonanywhere.com/about/).
+* [Carnap](https://carnap.io)
+  >"Carnap is a free and open software framework written in [Haskell](https://www.haskell.org) for teaching and studying formal logic."
+
+  > An introductory [blog post](http://dailynous.com/2018/11/07/new-free-open-source-multi-purpose-multi-system-logic-software/) by the author, [Graham Leach-Krouse](https://philpeople.org/profiles/graham-leach-krouse-1), at [Daily Nous](http://dailynous.com).
+
 * [Conan - A proof editor for first order logic](https://github.com/nonilole/Conan)
+* [List of Computational Tools for Modal Logic](http://www.cs.man.ac.uk/~schmidt/tools/)
 * [Logic Matters](https://www.logicmatters.net)
 * [Microsoft's Lean, an "open source theorem prover and programming language"](https://leanprover.github.io/)
 * [Open Logic Project](http://openlogicproject.org)
 * [SymPy Logic Module](https://docs.sympy.org/latest/modules/logic.html)
   >"The logic module for SymPy allows to form and manipulate logic expressions using symbolic and Boolean values."
+* [Taut](https://www.taut-logic.com)
+  >"This is a website that contains randomly-generated, self-correcting logic excercises. It runs directly on your browser, so there is no need to download anything. It was designed by [Ariel Roffé](https://sites.google.com/view/ariel-roffe/home) (UBA / UNQ / CONICET), with support from the [BA-Logic](http://ba-logic.com) group"
 
 -------------------------------------------------------------------------------
 
