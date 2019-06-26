@@ -85,8 +85,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
   Created by [Brian Tackett](https://briantackett.pythonanywhere.com/about/).
 * [Carnap](https://carnap.io)
   >"Carnap is a free and open software framework written in [Haskell](https://www.haskell.org) for teaching and studying formal logic."
-
-  > An introductory [blog post](http://dailynous.com/2018/11/07/new-free-open-source-multi-purpose-multi-system-logic-software/) by the author, [Graham Leach-Krouse](https://philpeople.org/profiles/graham-leach-krouse-1), at [Daily Nous](http://dailynous.com).
+  An introductory [blog post](http://dailynous.com/2018/11/07/new-free-open-source-multi-purpose-multi-system-logic-software/) by the author, [Graham Leach-Krouse](https://philpeople.org/profiles/graham-leach-krouse-1), at [Daily Nous](http://dailynous.com).
 
 * [Conan - A proof editor for first order logic](https://github.com/nonilole/Conan)
 * [List of Computational Tools for Modal Logic](http://www.cs.man.ac.uk/~schmidt/tools/)
@@ -117,7 +116,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
     * [kanren - Logic Programming in Python](https://github.com/logpy/logpy)
 	* [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
 	* [tt - the Boolean expression toolbox](https://tt.brianwel.ch/en/latest/)
-	> tt (truth table) is a library aiming to provide a Pythonic toolkit for working with Boolean expressions and truth tables.
+	>tt (truth table) is a library aiming to provide a Pythonic toolkit for working with Boolean expressions and truth tables.
 
 -------------------------------------------------------------------------------
 
