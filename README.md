@@ -5,7 +5,6 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 **Table of Contents**
 
 - [Awesome Philosophy and Computer Science](#awesome-philosophy-and-computer-science)
-    - [Contents](#contents)
     - [Related Sites](#related-sites)
     - [Encyclopedia Entries](#encyclopedia-entries)
         - [Stanford Encyclopedia of Philosophy](#stanford-encyclopedia-of-philosophy)
@@ -16,7 +15,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
     - [Blogs](#blogs)
     - [Organizations and Societies](#organizations-and-societies)
     - [Logic](#logic)
-    - [Programming Languages](#programming-languages)
+    - [Programming Languages and Libraries](#programming-languages-and-libraries)
     - [Digital Philosophy](#digital-philosophy)
     - [University Departments and Research Centers](#university-departments-and-research-centers)
     - [Magazines and Newsletters](#magazines-and-newsletters)
@@ -99,7 +98,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 
 -------------------------------------------------------------------------------
 
-## Programming Languages
+## Programming Languages and Libraries
 * Lisp
     * [Common Lisp](https://common-lisp.net)
         * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
