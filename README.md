@@ -8,6 +8,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
     - [Related Sites](#related-sites)
     - [Encyclopedia Entries](#encyclopedia-entries)
         - [Stanford Encyclopedia of Philosophy](#stanford-encyclopedia-of-philosophy)
+        - [Internet Encyclopedia of Philosophy](#internet-encyclopedia-of-philosophy)
     - [Bibliographies](#bibliographies)
     - [Books](#books)
         - [Freely available](#freely-available)
@@ -24,6 +25,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
     - [Software for Philosophers](#software-for-philosophers)
 
 <!-- markdown-toc end -->
+
 
 ## Related Sites
 * [PhiloComp](http://philocomp.net)
@@ -45,6 +47,11 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 * [Semantic Conceptions of Information](https://plato.stanford.edu/entries/information-semantic/)
 * [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 * [Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
+
+### Internet Encyclopedia of Philosophy
+* [Artificial Intelligence](https://www.iep.utm.edu/art-inte/)
+* [The Brain in a Vat Argument](https://www.iep.utm.edu/brainvat/)
+* [The Computational Theory of Mind](https://www.iep.utm.edu/compmind/)
 
 -------------------------------------------------------------------------------
 
