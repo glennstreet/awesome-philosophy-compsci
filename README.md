@@ -15,6 +15,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
     - [Ontology of Philosophy of Computer Science](#ontology-of-philosophy-of-computer-science)
     - [Blogs](#blogs)
     - [Organizations and Societies](#organizations-and-societies)
+    - [Conferences and Symposia](#conferences-and-symposia)
     - [Logic](#logic)
     - [Programming Languages and Libraries](#programming-languages-and-libraries)
     - [Digital Philosophy](#digital-philosophy)
