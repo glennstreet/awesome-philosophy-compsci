@@ -140,6 +140,8 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 
     "A comprehensive map of all influential relationships in philosophy according to Wikipedia."
 * [The Philosophome](http://ontology.buffalo.edu/philosophome.org.html)
+* [Spinoza's Ethic's 2.0](https://ethics.spinozism.org); created by [Torin Doppelt](https://www.torindoppelt.com/#about)
+     * [Accompanying Blog](https://www.torindoppelt.com/post/)
 * [Transcribing Bentham](https://blogs.ucl.ac.uk/transcribe-bentham/)
 * [Why and How: Exploring the Significance of Digital Humanities for Philosophy](https://digitalscholarship.files.wordpress.com/2013/02/spirowhydhapaphilosophy2013fnal.pdf)
 
