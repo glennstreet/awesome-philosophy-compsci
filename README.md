@@ -43,6 +43,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 * [Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/)
 * [Computer and Information Ethics](https://plato.stanford.edu/entries/ethics-computer/)
 * [Computing and Moral Responsibility](https://plato.stanford.edu/entries/computing-responsibility/)
+* [The Lambda Calculus](https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/)
 * [Recursive Functions](https://plato.stanford.edu/entries/recursive-functions/)
 * [Information](https://plato.stanford.edu/entries/information/)
 * [Semantic Conceptions of Information](https://plato.stanford.edu/entries/information-semantic/)
