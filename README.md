@@ -85,6 +85,11 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 
 -------------------------------------------------------------------------------
 
+## Conferences and Symposia
+* [ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org)
+
+-------------------------------------------------------------------------------
+
 ## Logic
 * [An Automated Modal Reasoner](https://briantackett.pythonanywhere.com)
   >"This program takes lists of formalized sentences and checks them for consistency or validity in Propositional Modal Logic (S5 Axiom System)."
