@@ -36,19 +36,21 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 
 ## Encyclopedia Entries
 ### Stanford Encyclopedia of Philosophy
-* [Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
-* [Logic and Artificial Intelligence](https://plato.stanford.edu/entries/logic-ai/)
+* [Category Theory](https://plato.stanford.edu/entries/category-theory/)
 * [Computability and Complexity](https://plato.stanford.edu/entries/computability/)
 * [Computation in Physical Systems](https://plato.stanford.edu/entries/computation-physicalsystems/)
 * [Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/)
 * [Computer and Information Ethics](https://plato.stanford.edu/entries/ethics-computer/)
 * [Computing and Moral Responsibility](https://plato.stanford.edu/entries/computing-responsibility/)
-* [The Lambda Calculus](https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/)
-* [Recursive Functions](https://plato.stanford.edu/entries/recursive-functions/)
 * [Information](https://plato.stanford.edu/entries/information/)
-* [Semantic Conceptions of Information](https://plato.stanford.edu/entries/information-semantic/)
+* [The Lambda Calculus](https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/)
+* [Logic and Artificial Intelligence](https://plato.stanford.edu/entries/logic-ai/)
+* [Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
 * [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 * [Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
+* [Recursive Functions](https://plato.stanford.edu/entries/recursive-functions/)
+* [Semantic Conceptions of Information](https://plato.stanford.edu/entries/information-semantic/)
+* [Set Theory](https://plato.stanford.edu/entries/set-theory/)
 
 ### Internet Encyclopedia of Philosophy
 * [Artificial Intelligence](https://www.iep.utm.edu/art-inte/)
