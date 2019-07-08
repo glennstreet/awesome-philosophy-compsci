@@ -9,6 +9,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
     - [Encyclopedia Entries](#encyclopedia-entries)
         - [Stanford Encyclopedia of Philosophy](#stanford-encyclopedia-of-philosophy)
         - [Internet Encyclopedia of Philosophy](#internet-encyclopedia-of-philosophy)
+        - [Wikipedia](#wikipedia)
     - [Bibliographies](#bibliographies)
     - [Books](#books)
         - [Freely available](#freely-available)
@@ -56,6 +57,9 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 * [Artificial Intelligence](https://www.iep.utm.edu/art-inte/)
 * [The Brain in a Vat Argument](https://www.iep.utm.edu/brainvat/)
 * [The Computational Theory of Mind](https://www.iep.utm.edu/compmind/)
+
+### Wikipedia
+* [Logic Programming](https://en.wikipedia.org/wiki/Logic_programming)
 
 -------------------------------------------------------------------------------
 
