@@ -85,6 +85,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 -------------------------------------------------------------------------------
 
 ## Organizations and Societies
+* [Association for Logic Programming](https://www.cs.nmsu.edu/ALP/)
 * [International Association for Computing And Philosophy](http://www.iacap.org)
 
 -------------------------------------------------------------------------------
@@ -115,6 +116,11 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 -------------------------------------------------------------------------------
 
 ## Programming Languages and Libraries
+* [miniKanren](http://minikanren.org)
+  >"miniKanren is an embedded Domain Specific Language for logic programming."
+  
+  >"miniKanren has been implemented in a growing number of host languages, including Scheme, Racket, Clojure,
+Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other languages."
 * Lisp
     * [Common Lisp](https://common-lisp.net)
         * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
@@ -129,6 +135,8 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 	
 * Python
     * [kanren - Logic Programming in Python](https://github.com/logpy/logpy)
+    * [PySWIP](https://github.com/yuce/pyswip)
+	> "PySWIP is a Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs. It features an (incomplete) SWI-Prolog foreign language interface, a utility class that makes it easy querying with Prolog and also a Pythonic interface."
 	* [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
 	* [tt - the Boolean expression toolbox](https://tt.brianwel.ch/en/latest/)
 	>tt (truth table) is a library aiming to provide a Pythonic toolkit for working with Boolean expressions and truth tables.
@@ -157,6 +165,8 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 -------------------------------------------------------------------------------
 
 ## Magazines and Newsletters
+* [ACM Transactions on Computational Logic (TOCL)](https://tocl.acm.org)
+> "For the purposes of ACM Transactions on Computational Logic, the field of computational logic consists of all uses of logic in computer science."
 * [Newsletter on Philosophy and Computers - American Philosophical Association](https://www.apaonline.org/page/computers_newsletter)
 
 -------------------------------------------------------------------------------
