@@ -59,7 +59,13 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 * [The Computational Theory of Mind](https://www.iep.utm.edu/compmind/)
 
 ### Wikipedia
+* [Constraint logic programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)
 * [Logic Programming](https://en.wikipedia.org/wiki/Logic_programming)
+    * [Abductive logic programming](https://en.wikipedia.org/wiki/Abductive_logic_programming)
+	* [Answer set programming](https://en.wikipedia.org/wiki/Answer_set_programming)
+	* [Concurrent logic programming](https://en.wikipedia.org/wiki/Concurrent_logic_programming)
+	* [Inductive logic programming](https://en.wikipedia.org/wiki/Inductive_logic_programming)
+* [Negation as failure](https://en.wikipedia.org/wiki/Negation_as_failure)
 
 -------------------------------------------------------------------------------
 
