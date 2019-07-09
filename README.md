@@ -90,6 +90,8 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 
 ## Blogs
 * [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com)
+* [The n-Category Café](https://golem.ph.utexas.edu/category/)
+> "A group blog on math, physics and philosophy"
 * [Shtetl-Optimized by Scott Aaronson](https://www.scottaaronson.com/blog/)
 
 -------------------------------------------------------------------------------
