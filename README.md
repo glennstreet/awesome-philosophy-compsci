@@ -120,6 +120,9 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 * [Logic Matters](https://www.logicmatters.net)
 * [Microsoft's Lean, an "open source theorem prover and programming language"](https://leanprover.github.io/)
 * [Open Logic Project](http://openlogicproject.org)
+* [Proof General](https://proofgeneral.github.io)
+  >"Proof General is a generic interface for proof assistants (also known as interactive theorem provers), based on the extensible, customizable text editor Emacs."
+    Since I'm an Emacs user, this has strong appeal.
 * [SymPy Logic Module](https://docs.sympy.org/latest/modules/logic.html)
   >"The logic module for SymPy allows to form and manipulate logic expressions using symbolic and Boolean values."
 * [Taut](https://www.taut-logic.com)
