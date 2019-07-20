@@ -1,0 +1,143 @@
+#+TITLE: Awesome Philosophy and Computer Science
+#+EXPORT_FILE_NAME: README
+
+A curated list of awesome resources that bridge Philosophy and Computer Science.
+
+* Related Sites
+** [[http://philocomp.net][PhiloComp]]
+"The aim of this website is to highlight the many strong links between Philosophy and Computing, for the benefit of students (and potential students) of both disciplines:..."
+-----
+* Encyclopedia Entries
+** Stanford Encyclopedia of Philosophy
+*** [[https://plato.stanford.edu/entries/category-theory/][Category Theory]]
+*** [[https://plato.stanford.edu/entries/computability/][Computability and Complexity]]
+*** [[https://plato.stanford.edu/entries/computation-physicalsystems/][Computation in Physical Systems]]
+*** [[https://plato.stanford.edu/entries/computational-complexity/][Computational Complexity Theory]]
+*** [[https://plato.stanford.edu/entries/ethics-computer/][Computer and Information Ethics]]
+*** [[https://plato.stanford.edu/entries/computing-responsibility/][Computing and Moral Responsibility]]
+*** [[https://plato.stanford.edu/entries/information/][Information]]
+*** [[https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/][The Lambda Calculus]]
+*** [[https://plato.stanford.edu/entries/logic-ai/][Logic and Artificial Intelligence]]
+*** [[https://plato.stanford.edu/entries/computer-science/][Philosophy of Computer Science]]
+*** [[https://plato.stanford.edu/entries/philosophy-mathematics/][Philosophy of Mathematics]]
+*** [[https://plato.stanford.edu/entries/technology/][Philosophy of Technology]]
+*** [[https://plato.stanford.edu/entries/recursive-functions/][Recursive Functions]]
+*** [[https://plato.stanford.edu/entries/information-semantic/][Semantic Conceptions of Information]]
+*** [[https://plato.stanford.edu/entries/set-theory/][Set Theory]]
+
+** Internet Encyclopedia of Philosophy
+*** [[https://www.iep.utm.edu/art-inte/][Artificial Intelligence]]
+*** [[https://www.iep.utm.edu/brainvat/][The Brain in a Vat Argument]]
+*** [[https://www.iep.utm.edu/compmind/][The Computational Theory of Mind]]
+
+** Wikipedia
+*** [[https://en.wikipedia.org/wiki/Constraint_logic_programming][Constraint logic programming]]
+*** [[https://en.wikipedia.org/wiki/Logic_programming][Logic Programming]]
+    * [[https://en.wikipedia.org/wiki/Abductive_logic_programming][Abductive logic programming]]
+    * [[https://en.wikipedia.org/wiki/Answer_set_programming][Answer set programming]]
+    * [[https://en.wikipedia.org/wiki/Concurrent_logic_programming][Concurrent logic programming]]
+    * [[https://en.wikipedia.org/wiki/Inductive_logic_programming][Inductive logic programming]]
+*** [[https://en.wikipedia.org/wiki/Negation_as_failure][Negation as failure]]
+-----
+* Bibliographies
+** [[https://philpapers.org/browse/philosophy-of-computing-and-information][Philosophy of Computing and Information at PhilPapers]]
+** [[https://dblp.uni-trier.de/search?q=philosophy%2520of%2520computer%2520science][Philosophy of Computer Science at DBLP]]
+-----
+* Books
+** Freely available
+*** [[https://cse.buffalo.edu/~rapaport/Papers/phics.pdf][Philosophy of Computer Science by William Rapaport]]
+*** [[http://greenteapress.com/wp/think-complexity-2e/][Think Complexity, Second Edition by Allen Downey]]
+-----
+* Ontology of Philosophy of Computer Science
+** [[https://www.inphoproject.org/taxonomy/2301][Internet Philosophy Ontology Project]]
+-----
+* Blogs
+** [[https://rjlipton.wordpress.com][Gödel's Lost Letter and P=NP]]
+** [[https://golem.ph.utexas.edu/category/][The n-Category Café]]
+"A group blog on math, physics and philosophy"
+** [[https://www.scottaaronson.com/blog/][Shtetl-Optimized by Scott Aaronson]]
+-----
+* Organizations and Societies
+** [[https://www.cs.nmsu.edu/ALP/][Association for Logic Programming]]
+** [[http://www.iacap.org][International Association for Computing And Philosophy]]
+-----
+* Conferences and Symposia
+** [[https://lics.siglog.org][ACM/IEEE Symposium on Logic in Computer Science]]
+-----
+* Logic
+** [[https://briantackett.pythonanywhere.com][An Automated Modal Reasoner]]
+"This program takes lists of formalized sentences and checks them for consistency or validity in Propositional Modal Logic (S5 Axiom System)."
+Created by [[https://briantackett.pythonanywhere.com/about/][Brian Tackett]].
+** [[https://carnap.io][Carnap]]
+"Carnap is a free and open software framework written in [[https://www.haskell.org][Haskell]] for teaching and studying formal logic."
+[[http://dailynous.com/2018/11/07/new-free-open-source-multi-purpose-multi-system-logic-software/%20][An introductory blog post]] by the author, [[https://philpeople.org/profiles/graham-leach-krouse-1][Graham Leach-Krouse]] at [[http://dailynous.com][Daily Nous]].
+** [[https://github.com/nonilole/Conan][Conan]]- A proof editor for first order logic
+** [[http://www.cs.man.ac.uk/~schmidt/tools/][List of Computational Tools for Modal Logic]]
+** [[https://www.logicmatters.net][Logic Matters]]
+** [[https://leanprover.github.io/][Microsoft's Lean]], an "open source theorem prover and programming language"
+** Open Logic Projecthttp://openlogicproject.org
+** [[https://proofgeneral.github.io][Proof General]]
+"Proof General is a generic interface for proof assistants (also known as interactive theorem provers), based on the extensible, customizable text editor Emacs."
+Since I'm an Emacs user, this has strong appeal.
+** [[https://docs.sympy.org/latest/modules/logic.html][SymPy Logic Module]]
+"The logic module for SymPy allows to form and manipulate logic expressions using symbolic and Boolean values."
+** [[https://www.taut-logic.com][Taut]]
+"This is a website that contains randomly-generated, self-correcting logic excercises. It runs directly on your browser, so there is no need to download anything. It was designed by [[https://sites.google.com/view/ariel-roffe/home][Ariel Roffé]] (UBA / UNQ / CONICET), with support from the [[http://ba-logic.com][BA-Logic]] group"
+-----
+* Programming Languages and Libraries
+** [[http://minikanren.org][miniKanren]]
+"miniKanren is an embedded Domain Specific Language for logic programming."
+
+"miniKanren has been implemented in a growing number of host languages, including Scheme, Racket, Clojure,
+Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other languages."
+** Lisp
+*** [[https://common-lisp.net][Common Lisp]] 
+**** [[https://lispcookbook.github.io/cl-cookbook/][The Common Lisp Cookbook]]
+**** Practical Common Lisp http://www.gigamonkeys.com/book/
+"If you think the greatest pleasure in programming comes from getting a lot done with code that simply and clearly expresses your intention, then programming in Common Lisp is likely to be about the most fun you can have with a computer. You'll get more done, faster, using it than you would using pretty much any other language."
+*** [[https://clojure.org][Clojure]]
+*** [[https://schemers.org][Scheme]]
+** Prolog
+    * [[http://www.swi-prolog.org][SWI-Prolog]]
+    * [[http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html][A. Aaby's Prolog Tutorial]]
+    * [[https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html][J.R. Fisher's Prolog Tutorial]]
+** Python
+    * [[https://github.com/logpy/logpy][kanren - Logic Programming in Python]]
+    * [[https://github.com/yuce/pyswip][PySWIP]]
+	"PySWIP is a Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs. It features an (incomplete) SWI-Prolog foreign language interface, a utility class that makes it easy querying with Prolog and also a Pythonic interface."
+***** [[https://github.com/tr3buchet/truths][truths - auto generate truth tables]]
+***** [[https://tt.brianwel.ch/en/latest/][tt - the Boolean expression toolbox]]
+tt (truth table) is a library aiming to provide a Pythonic toolkit for working with Boolean expressions and truth tables.
+-----
+* Digital Philosophy
+** [[http://dailynous.com/tag/digital-humanities/][Articles tagged "digital humanities" at Daily Nous]]
+** [[http://chrisalensula.org][Chris Alen Sula]]
+** [[https://kumu.io/GOliveira/philosophers-web#map-b9Ts7W5r][Philosopher's Web]]
+A comprehensive map of all influential relationships in philosophy according to Wikipedia.
+** [[http://ontology.buffalo.edu/philosophome.org.html][The Philosophome]]
+** [[https://ethics.spinozism.org][Spinoza's Ethic's 2.0]]; created by [[https://www.torindoppelt.com/#about][Torin Doppelt]]
+*** [[https://www.torindoppelt.com/post/][Accompanying Blog]]
+**  [[https://blogs.ucl.ac.uk/transcribe-bentham/][Transcribing Bentham]]
+**  [[https://digitalscholarship.files.wordpress.com/2013/02/spirowhydhapaphilosophy2013fnal.pdf][Why and How: Exploring the Significance of Digital Humanities for Philosophy]]
+ This is a presentation by Lisa Spirohttps://digitalscholarship.wordpress.com)
+-----
+* University Departments and Research Centers
+** Philosophy of Computer Science - Utrecht University http://www.cs.uu.nl/groups/AD/index-phil.html
+-----
+* Magazines and Newsletters
+** [[https://tocl.acm.org][ACM Transactions on Computational Logic (TOCL)]]
+"For the purposes of ACM Transactions on Computational Logic, the field of computational logic consists of all uses of logic in computer science."
+** [[https://www.apaonline.org/page/computers_newsletter][Newsletter on Philosophy and Computers]] - American Philosophical Association 
+-----
+* Individual Philosophers
+** [[http://www.kaley-bradley.com][Peter Bradley]]
+** [[http://www.philosophyofinformation.net/about/][Luciano Floridi]]
+** [[https://cse.buffalo.edu/~rapaport/][William J. Rapaport]]
+-----
+* Philosophical Networks
+** [[https://github.com/mboudour/WordNets/tree/master/Philosophical%2520WordNets][Philosophical Wordnets]]
+Contributed by [[https://github.com/mboudour][Moses Boudorides]], a series of Jupyter notebooks showing sentence-co-occurring relationships among concepts. Works analyzed include Heidegger's "The Question Concerning Technology" and Nietzsche's "Thus Spake Zarathustra".
+-----
+* Software for Philosophers
+** [[http://hypernomicon.org][Hypernomicon]]
+"Personal philosophy database software," created by [[http://jasonwinning.com][Jason Winning]].
