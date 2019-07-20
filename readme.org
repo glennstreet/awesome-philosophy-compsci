@@ -1,7 +1,7 @@
 #+TITLE: Awesome Philosophy and Computer Science
 #+EXPORT_FILE_NAME: README
 
-A curated list of awesome resources that bridge Philosophy and Computer Science.
+*A curated list of awesome resources that bridge Philosophy and Computer Science.*
 
 * Related Sites
 ** [[http://philocomp.net][PhiloComp]]
