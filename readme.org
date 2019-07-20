@@ -55,7 +55,7 @@ A curated list of awesome resources that bridge Philosophy and Computer Science.
 ** [[https://rjlipton.wordpress.com][Gödel's Lost Letter and P=NP]]
 ** [[https://golem.ph.utexas.edu/category/][The n-Category Café]]
 "A group blog on math, physics and philosophy"
-** [[https://www.scottaaronson.com/blog/][Shtetl-Optimized by Scott Aaronson]]
+** [[https://www.scottaaronson.com/blog/][Shtetl-Optimized]]
 -----
 * Organizations and Societies
 ** [[https://www.cs.nmsu.edu/ALP/][Association for Logic Programming]]
@@ -74,8 +74,9 @@ Created by [[https://briantackett.pythonanywhere.com/about/][Brian Tackett]].
 ** [[https://github.com/nonilole/Conan][Conan]]- A proof editor for first order logic
 ** [[http://www.cs.man.ac.uk/~schmidt/tools/][List of Computational Tools for Modal Logic]]
 ** [[https://www.logicmatters.net][Logic Matters]]
-** [[https://leanprover.github.io/][Microsoft's Lean]], an "open source theorem prover and programming language"
-** Open Logic Projecthttp://openlogicproject.org
+** [[https://leanprover.github.io/][Microsoft's Lean]]
+"Lean is an open source theorem prover and programming language being developed at [[https://www.microsoft.com/en-us/research/][Microsoft Research]]. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs."
+** [[http://openlogicproject.org][Open Logic Project]] 
 ** [[https://proofgeneral.github.io][Proof General]]
 "Proof General is a generic interface for proof assistants (also known as interactive theorem provers), based on the extensible, customizable text editor Emacs."
 Since I'm an Emacs user, this has strong appeal.
@@ -93,36 +94,40 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
 ** Lisp
 *** [[https://common-lisp.net][Common Lisp]] 
 **** [[https://lispcookbook.github.io/cl-cookbook/][The Common Lisp Cookbook]]
-**** Practical Common Lisp http://www.gigamonkeys.com/book/
+**** [[http://www.gigamonkeys.com/book/][Practical Common Lisp]]  
 "If you think the greatest pleasure in programming comes from getting a lot done with code that simply and clearly expresses your intention, then programming in Common Lisp is likely to be about the most fun you can have with a computer. You'll get more done, faster, using it than you would using pretty much any other language."
 *** [[https://clojure.org][Clojure]]
 *** [[https://schemers.org][Scheme]]
 ** Prolog
-    * [[http://www.swi-prolog.org][SWI-Prolog]]
-    * [[http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html][A. Aaby's Prolog Tutorial]]
-    * [[https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html][J.R. Fisher's Prolog Tutorial]]
+*** [[https://www.swi-prolog.org][SWI-Prolog]]
+*** [[http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html][A. Aaby's Prolog Tutorial]]
+*** [[https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html][J.R. Fisher's Prolog Tutorial]]
 ** Python
-    * [[https://github.com/logpy/logpy][kanren - Logic Programming in Python]]
-    * [[https://github.com/yuce/pyswip][PySWIP]]
-	"PySWIP is a Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs. It features an (incomplete) SWI-Prolog foreign language interface, a utility class that makes it easy querying with Prolog and also a Pythonic interface."
-***** [[https://github.com/tr3buchet/truths][truths - auto generate truth tables]]
-***** [[https://tt.brianwel.ch/en/latest/][tt - the Boolean expression toolbox]]
+*** [[https://github.com/logpy/logpy][kanren]]
+"Logic Programming in Python"
+*** [[https://github.com/yuce/pyswip][PySWIP]]
+"PySWIP is a Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs. It features an (incomplete) SWI-Prolog foreign language interface, a utility class that makes it easy querying with Prolog and also a Pythonic interface."
+*** [[https://github.com/tr3buchet/truths][truths - auto generate truth tables]]
+*** [[https://tt.brianwel.ch/en/latest/][tt - the Boolean expression toolbox]]
 tt (truth table) is a library aiming to provide a Pythonic toolkit for working with Boolean expressions and truth tables.
 -----
 * Digital Philosophy
 ** [[http://dailynous.com/tag/digital-humanities/][Articles tagged "digital humanities" at Daily Nous]]
 ** [[http://chrisalensula.org][Chris Alen Sula]]
+"My work applies visualization and network science to humanities datasets, especially the history of philosophy. I also write on digital humanities and the politics of technology."
 ** [[https://kumu.io/GOliveira/philosophers-web#map-b9Ts7W5r][Philosopher's Web]]
 A comprehensive map of all influential relationships in philosophy according to Wikipedia.
 ** [[http://ontology.buffalo.edu/philosophome.org.html][The Philosophome]]
-** [[https://ethics.spinozism.org][Spinoza's Ethic's 2.0]]; created by [[https://www.torindoppelt.com/#about][Torin Doppelt]]
-*** [[https://www.torindoppelt.com/post/][Accompanying Blog]]
+** [[https://ethics.spinozism.org][Spinoza's Ethics 2.0]]
+Created by [[https://www.torindoppelt.com][Torin Doppelt]]
+*** [[https://www.torindoppelt.com/#posts][Digital Spinozism]]
+Accompanying blog to Spinoza's Ethics 2.0
 **  [[https://blogs.ucl.ac.uk/transcribe-bentham/][Transcribing Bentham]]
 **  [[https://digitalscholarship.files.wordpress.com/2013/02/spirowhydhapaphilosophy2013fnal.pdf][Why and How: Exploring the Significance of Digital Humanities for Philosophy]]
  This is a presentation by Lisa Spirohttps://digitalscholarship.wordpress.com)
 -----
 * University Departments and Research Centers
-** Philosophy of Computer Science - Utrecht University http://www.cs.uu.nl/groups/AD/index-phil.html
+** [[http://www.cs.uu.nl/groups/AD/index-phil.html][Philosophy of Computer Science - Utrecht University]]
 -----
 * Magazines and Newsletters
 ** [[https://tocl.acm.org][ACM Transactions on Computational Logic (TOCL)]]
