@@ -103,9 +103,10 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
 *** [[https://clojure.org][Clojure]]
 *** [[https://schemers.org][Scheme]]
 ** Prolog
-*** [[https://www.swi-prolog.org][SWI-Prolog]]
 *** [[http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html][A. Aaby's Prolog Tutorial]]
 *** [[https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html][J.R. Fisher's Prolog Tutorial]]
+*** [[https://www.swi-prolog.org][SWI-Prolog]]
+*** [[https://en.wikibooks.org/wiki/Prolog][Wikibooks Prolog]]
 ** Python
 *** [[https://github.com/logpy/logpy][kanren]]
 "Logic Programming in Python"
