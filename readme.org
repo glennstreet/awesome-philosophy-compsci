@@ -54,7 +54,9 @@
 * Blogs
 ** [[https://rjlipton.wordpress.com][Gödel's Lost Letter and P=NP]]
 ** [[https://golem.ph.utexas.edu/category/][The n-Category Café]]
-"A group blog on math, physics and philosophy"
+"A group blog on math, physics and philosophy".
+There is an associated [[https://ncatlab.org/nlab/show/HomePage][wiki]].
+“The nLab is a collaborative wiki. It grew out of the desire (I, II) to have a place for development (the ’Lab’ in ’nLab’) and indexed archives of the ideas and concepts surrounding the discussions at the The n-Category Café. These discussions primarily are about mathematics, physics and philosophy from the perspective of category theory and higher category theory (the ’n’ in ’nLab’ and nPOV).“
 ** [[https://www.scottaaronson.com/blog/][Shtetl-Optimized]]
 -----
 * Organizations and Societies
