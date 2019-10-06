@@ -111,6 +111,9 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
 ** Prolog
 *** [[http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html][A. Aaby's Prolog Tutorial]]
 *** [[https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html][J.R. Fisher's Prolog Tutorial]]
+*** [[https://github.com/metagol/metagol][Metagol]]
+‘Metagol is an inductive logic programming (ILP) system based on meta-interpretive learning.
+Metagol is written in Prolog and runs with SWI-Prolog.’
 *** [[https://www.swi-prolog.org][SWI-Prolog]]
 *** [[https://en.wikibooks.org/wiki/Prolog][Wikibooks Prolog]]
 ** [[http://www.picat-lang.org][Picat]]
