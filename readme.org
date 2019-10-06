@@ -70,6 +70,8 @@ There is an associated [[https://ncatlab.org/nlab/show/HomePage][wiki]].
 ** [[https://briantackett.pythonanywhere.com][An Automated Modal Reasoner]]
 "This program takes lists of formalized sentences and checks them for consistency or validity in Propositional Modal Logic (S5 Axiom System)."
 Created by [[https://briantackett.pythonanywhere.com/about/][Brian Tackett]].
+** [[https://arend-lang.github.io/about/][Arend Theorem Prover]]
+‘Arend implements a version of [[https://homotopytypetheory.org][homotopy type theory]] with an interval type, which syntax is similar to [[https://ncatlab.org/nlab/show/cubical+type+theory][cubical type theory]]. This implies several nice properties of path types and allows for a simple and clean definition of higher inductive types (including recursive ones).’
 ** [[https://carnap.io][Carnap]]
 "Carnap is a free and open software framework written in [[https://www.haskell.org][Haskell]] for teaching and studying formal logic."
 [[http://dailynous.com/2018/11/07/new-free-open-source-multi-purpose-multi-system-logic-software/%20][An introductory blog post]] by the author, [[https://philpeople.org/profiles/graham-leach-krouse-1][Graham Leach-Krouse]] at [[http://dailynous.com][Daily Nous]].

@@ -1,117 +1,118 @@
 
 # Table of Contents
 
-1.  [Related Sites](#org8615168)
-    1.  [PhiloComp](#orgf5ae1e4)
-2.  [Encyclopedia Entries](#org7865760)
-    1.  [Stanford Encyclopedia of Philosophy](#orgef421f7)
-        1.  [Category Theory](#orgbe696bc)
-        2.  [Computability and Complexity](#org8aa3e3e)
-        3.  [Computation in Physical Systems](#orgd8a0407)
-        4.  [Computational Complexity Theory](#orgc1710a5)
-        5.  [Computer and Information Ethics](#org7b0d205)
-        6.  [Computing and Moral Responsibility](#orgf160845)
-        7.  [Information](#org328b65e)
-        8.  [The Lambda Calculus](#org5228ac2)
-        9.  [Logic and Artificial Intelligence](#org676726a)
-        10. [Philosophy of Computer Science](#org553d2af)
-        11. [Philosophy of Mathematics](#org07fdc7e)
-        12. [Philosophy of Technology](#org6eae58f)
-        13. [Recursive Functions](#org2789fff)
-        14. [Semantic Conceptions of Information](#org9fb9297)
-        15. [Set Theory](#org21eb640)
-    2.  [Internet Encyclopedia of Philosophy](#org4080590)
-        1.  [Artificial Intelligence](#org7f5ab46)
-        2.  [The Brain in a Vat Argument](#orgcd17068)
-        3.  [The Computational Theory of Mind](#org38366bf)
-    3.  [Wikipedia](#org344aaaf)
-        1.  [Constraint logic programming](#orge519d0e)
-        2.  [Logic Programming](#orgd5726ea)
-        3.  [Negation as failure](#org1c5cbec)
-3.  [Bibliographies](#org6b64ea6)
-    1.  [Philosophy of Computing and Information at PhilPapers](#orge38bdf1)
-    2.  [Philosophy of Computer Science at DBLP](#org49890f5)
-4.  [Books](#orgadf930a)
-    1.  [Freely available](#org88c9010)
-        1.  [Philosophy of Computer Science by William Rapaport](#orgff47675)
-        2.  [Think Complexity, Second Edition by Allen Downey](#orgf308eef)
-5.  [Ontology of Philosophy of Computer Science](#org9f4418c)
-    1.  [Internet Philosophy Ontology Project](#org0524a3e)
-6.  [Blogs](#orga96ac6a)
-    1.  [Gödel's Lost Letter and P=NP](#org93a246a)
-    2.  [The n-Category Café](#org1aac916)
-    3.  [Shtetl-Optimized](#org49253f0)
-7.  [Organizations and Societies](#org42683bc)
-    1.  [Association for Logic Programming](#org42daa2b)
-    2.  [International Association for Computing And Philosophy](#orgf593e4e)
-8.  [Conferences and Symposia](#orgad7c6eb)
-    1.  [ACM/IEEE Symposium on Logic in Computer Science](#orgd3ec068)
-9.  [Logic](#orgecb8d8a)
-    1.  [An Automated Modal Reasoner](#orgdec0d01)
-    2.  [Carnap](#org9addfac)
-    3.  [Conan- A proof editor for first order logic](#orge61c314)
-    4.  [Coq Proof Assistant](#orgd83bb17)
-        1.  [GitHub repository](#orgc8bc23c)
-        2.  [Home page of Wiki](#org120120d)
-    5.  [GAPT: General Architecture for Proof Theory](#orgcb369f7)
-    6.  [List of Computational Tools for Modal Logic](#org641f485)
-    7.  [Logic Matters](#org309c762)
-    8.  [Microsoft's Lean](#org8c620b6)
-    9.  [Open Logic Project](#orgda21c43)
-    10. [Proof General](#org9e835bb)
-    11. [SymPy Logic Module](#org40eb8f7)
-    12. [Taut](#org548c4ae)
-10. [Programming Languages and Libraries](#orgd8e019d)
-    1.  [Metamath](#orgce75e20)
-    2.  [miniKanren](#orgb072048)
-    3.  [Lisp](#orgda5b2e2)
-        1.  [Common Lisp](#org28f7c65)
-        2.  [Clojure](#orgae7915a)
-        3.  [Scheme](#orgbba712a)
-    4.  [Prolog](#orgb46273c)
-        1.  [A. Aaby's Prolog Tutorial](#orgc96d2b3)
-        2.  [J.R. Fisher's Prolog Tutorial](#org7ed2362)
-        3.  [Metagol](#org467481b)
-        4.  [SWI-Prolog](#orge81782b)
-        5.  [Wikibooks Prolog](#orgae7ce97)
-    5.  [Picat](#org47c7ed9)
-    6.  [Python](#org454ed86)
-        1.  [kanren](#orgf912f9c)
-        2.  [PySWIP](#org4671268)
-        3.  [truths - auto generate truth tables](#orgc3e8151)
-        4.  [tt - the Boolean expression toolbox](#orgf72218b)
-11. [Digital Philosophy](#org2d3ee9f)
-    1.  [Articles tagged "digital humanities" at Daily Nous](#org5b1f412)
-    2.  [Chris Alen Sula](#org0e95dee)
-    3.  [Philosopher's Web](#orga309a58)
-    4.  [The Philosophome](#org2e990c5)
-    5.  [Spinoza's Ethics 2.0](#orgcc11d15)
-        1.  [Digital Spinozism](#orgfd50fcc)
-    6.  [Transcribing Bentham](#org2eb2045)
-    7.  [Why and How: Exploring the Significance of Digital Humanities for Philosophy](#org31a83c0)
-12. [University Departments and Research Centers](#org89e69bb)
-    1.  [Philosophy of Computer Science - Utrecht University](#org52f1d2d)
-13. [Magazines and Newsletters](#orgb45c6c3)
-    1.  [ACM Transactions on Computational Logic (TOCL)](#org0fa1e2a)
-    2.  [Newsletter on Philosophy and Computers - American Philosophical Association](#orgbf49b7d)
-14. [Individual Philosophers](#org35c7c95)
-    1.  [Peter Bradley](#orgd139b56)
-    2.  [Luciano Floridi](#org44d8a83)
-    3.  [William J. Rapaport](#orgb46b59f)
-15. [Philosophical Networks](#orgdcfa21d)
-    1.  [Philosophical Wordnets](#org397e3ea)
-16. [Software for Philosophers](#orgce8b438)
-    1.  [Hypernomicon](#org30add68)
+1.  [Related Sites](#orge8dbf9a)
+    1.  [PhiloComp](#orgafa0690)
+2.  [Encyclopedia Entries](#org86b8189)
+    1.  [Stanford Encyclopedia of Philosophy](#org25cdd6a)
+        1.  [Category Theory](#org2a72bd2)
+        2.  [Computability and Complexity](#org9a6f62d)
+        3.  [Computation in Physical Systems](#orgc34f1ec)
+        4.  [Computational Complexity Theory](#org78829ec)
+        5.  [Computer and Information Ethics](#org3881d51)
+        6.  [Computing and Moral Responsibility](#org3234411)
+        7.  [Information](#orgc829037)
+        8.  [The Lambda Calculus](#org74a826d)
+        9.  [Logic and Artificial Intelligence](#orgba112f8)
+        10. [Philosophy of Computer Science](#org873755c)
+        11. [Philosophy of Mathematics](#org3163ad1)
+        12. [Philosophy of Technology](#org3394351)
+        13. [Recursive Functions](#orga7b0211)
+        14. [Semantic Conceptions of Information](#org6dc3544)
+        15. [Set Theory](#orgcc19fc7)
+    2.  [Internet Encyclopedia of Philosophy](#org886825f)
+        1.  [Artificial Intelligence](#org6180cc7)
+        2.  [The Brain in a Vat Argument](#org38b7196)
+        3.  [The Computational Theory of Mind](#org7930d2f)
+    3.  [Wikipedia](#orgbb6fd27)
+        1.  [Constraint logic programming](#orgf35018a)
+        2.  [Logic Programming](#org19fa3b0)
+        3.  [Negation as failure](#org37380af)
+3.  [Bibliographies](#org90d2f10)
+    1.  [Philosophy of Computing and Information at PhilPapers](#orgf270438)
+    2.  [Philosophy of Computer Science at DBLP](#org03c5fac)
+4.  [Books](#org79e5dab)
+    1.  [Freely available](#orga38e420)
+        1.  [Philosophy of Computer Science by William Rapaport](#orgaa82d9e)
+        2.  [Think Complexity, Second Edition by Allen Downey](#org5205e10)
+5.  [Ontology of Philosophy of Computer Science](#org23d2f47)
+    1.  [Internet Philosophy Ontology Project](#org5d4d3b3)
+6.  [Blogs](#org7c1e6cb)
+    1.  [Gödel's Lost Letter and P=NP](#org72c70d8)
+    2.  [The n-Category Café](#org54a8837)
+    3.  [Shtetl-Optimized](#org012daa5)
+7.  [Organizations and Societies](#org99b8bfc)
+    1.  [Association for Logic Programming](#org17e4d08)
+    2.  [International Association for Computing And Philosophy](#org55ba6eb)
+8.  [Conferences and Symposia](#orgaace028)
+    1.  [ACM/IEEE Symposium on Logic in Computer Science](#org0391546)
+9.  [Logic](#orgf967d47)
+    1.  [An Automated Modal Reasoner](#org2db500e)
+    2.  [Arend Theorem Prover](#org3813dd8)
+    3.  [Carnap](#org816d8d2)
+    4.  [Conan- A proof editor for first order logic](#orgad0e930)
+    5.  [Coq Proof Assistant](#org04a57a7)
+        1.  [GitHub repository](#orgada4ba4)
+        2.  [Home page of Wiki](#orgc8b93db)
+    6.  [GAPT: General Architecture for Proof Theory](#orgb9e7875)
+    7.  [List of Computational Tools for Modal Logic](#orgdb1f25c)
+    8.  [Logic Matters](#org840e217)
+    9.  [Microsoft's Lean](#org4b1771b)
+    10. [Open Logic Project](#orgea4f939)
+    11. [Proof General](#orge51dba4)
+    12. [SymPy Logic Module](#org4593c7b)
+    13. [Taut](#orgf8986ec)
+10. [Programming Languages and Libraries](#orgb1895bb)
+    1.  [Metamath](#orgf0f51b5)
+    2.  [miniKanren](#orgb047549)
+    3.  [Lisp](#org41789db)
+        1.  [Common Lisp](#org39d01b0)
+        2.  [Clojure](#org8a28dd1)
+        3.  [Scheme](#org7e87c6a)
+    4.  [Prolog](#orgb4945e8)
+        1.  [A. Aaby's Prolog Tutorial](#org1b8f6ee)
+        2.  [J.R. Fisher's Prolog Tutorial](#orge36a1e2)
+        3.  [Metagol](#org375df34)
+        4.  [SWI-Prolog](#orgd1af4c0)
+        5.  [Wikibooks Prolog](#org4b3b3c6)
+    5.  [Picat](#org9687ebc)
+    6.  [Python](#org2975253)
+        1.  [kanren](#org8291076)
+        2.  [PySWIP](#org8db1ce7)
+        3.  [truths - auto generate truth tables](#orgde03b0e)
+        4.  [tt - the Boolean expression toolbox](#orgc77b688)
+11. [Digital Philosophy](#orgaf6036b)
+    1.  [Articles tagged "digital humanities" at Daily Nous](#org585f88a)
+    2.  [Chris Alen Sula](#org75f8d6b)
+    3.  [Philosopher's Web](#org41e1466)
+    4.  [The Philosophome](#orga2ac6ec)
+    5.  [Spinoza's Ethics 2.0](#org18e1c39)
+        1.  [Digital Spinozism](#org19713ae)
+    6.  [Transcribing Bentham](#org4105fd6)
+    7.  [Why and How: Exploring the Significance of Digital Humanities for Philosophy](#org0747d73)
+12. [University Departments and Research Centers](#org845edeb)
+    1.  [Philosophy of Computer Science - Utrecht University](#org6c9872d)
+13. [Magazines and Newsletters](#org8811ebf)
+    1.  [ACM Transactions on Computational Logic (TOCL)](#org4b23308)
+    2.  [Newsletter on Philosophy and Computers - American Philosophical Association](#org3f76a6c)
+14. [Individual Philosophers](#org19df8b1)
+    1.  [Peter Bradley](#orgd81d3bf)
+    2.  [Luciano Floridi](#org515dc58)
+    3.  [William J. Rapaport](#org7f86c1d)
+15. [Philosophical Networks](#org1f2e487)
+    1.  [Philosophical Wordnets](#orgf5c355c)
+16. [Software for Philosophers](#org1104777)
+    1.  [Hypernomicon](#orgc6df17d)
 
 **A curated list of awesome resources that bridge Philosophy and Computer Science.**
 
 
-<a id="org8615168"></a>
+<a id="orge8dbf9a"></a>
 
 # Related Sites
 
 
-<a id="orgf5ae1e4"></a>
+<a id="orgafa0690"></a>
 
 ## [PhiloComp](http://philocomp.net)
 
@@ -120,122 +121,122 @@
 ---
 
 
-<a id="org7865760"></a>
+<a id="org86b8189"></a>
 
 # Encyclopedia Entries
 
 
-<a id="orgef421f7"></a>
+<a id="org25cdd6a"></a>
 
 ## Stanford Encyclopedia of Philosophy
 
 
-<a id="orgbe696bc"></a>
+<a id="org2a72bd2"></a>
 
 ### [Category Theory](https://plato.stanford.edu/entries/category-theory/)
 
 
-<a id="org8aa3e3e"></a>
+<a id="org9a6f62d"></a>
 
 ### [Computability and Complexity](https://plato.stanford.edu/entries/computability/)
 
 
-<a id="orgd8a0407"></a>
+<a id="orgc34f1ec"></a>
 
 ### [Computation in Physical Systems](https://plato.stanford.edu/entries/computation-physicalsystems/)
 
 
-<a id="orgc1710a5"></a>
+<a id="org78829ec"></a>
 
 ### [Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/)
 
 
-<a id="org7b0d205"></a>
+<a id="org3881d51"></a>
 
 ### [Computer and Information Ethics](https://plato.stanford.edu/entries/ethics-computer/)
 
 
-<a id="orgf160845"></a>
+<a id="org3234411"></a>
 
 ### [Computing and Moral Responsibility](https://plato.stanford.edu/entries/computing-responsibility/)
 
 
-<a id="org328b65e"></a>
+<a id="orgc829037"></a>
 
 ### [Information](https://plato.stanford.edu/entries/information/)
 
 
-<a id="org5228ac2"></a>
+<a id="org74a826d"></a>
 
 ### [The Lambda Calculus](https://plato.stanford.edu/archives/spr2015/entries/lambda-calculus/)
 
 
-<a id="org676726a"></a>
+<a id="orgba112f8"></a>
 
 ### [Logic and Artificial Intelligence](https://plato.stanford.edu/entries/logic-ai/)
 
 
-<a id="org553d2af"></a>
+<a id="org873755c"></a>
 
 ### [Philosophy of Computer Science](https://plato.stanford.edu/entries/computer-science/)
 
 
-<a id="org07fdc7e"></a>
+<a id="org3163ad1"></a>
 
 ### [Philosophy of Mathematics](https://plato.stanford.edu/entries/philosophy-mathematics/)
 
 
-<a id="org6eae58f"></a>
+<a id="org3394351"></a>
 
 ### [Philosophy of Technology](https://plato.stanford.edu/entries/technology/)
 
 
-<a id="org2789fff"></a>
+<a id="orga7b0211"></a>
 
 ### [Recursive Functions](https://plato.stanford.edu/entries/recursive-functions/)
 
 
-<a id="org9fb9297"></a>
+<a id="org6dc3544"></a>
 
 ### [Semantic Conceptions of Information](https://plato.stanford.edu/entries/information-semantic/)
 
 
-<a id="org21eb640"></a>
+<a id="orgcc19fc7"></a>
 
 ### [Set Theory](https://plato.stanford.edu/entries/set-theory/)
 
 
-<a id="org4080590"></a>
+<a id="org886825f"></a>
 
 ## Internet Encyclopedia of Philosophy
 
 
-<a id="org7f5ab46"></a>
+<a id="org6180cc7"></a>
 
 ### [Artificial Intelligence](https://www.iep.utm.edu/art-inte/)
 
 
-<a id="orgcd17068"></a>
+<a id="org38b7196"></a>
 
 ### [The Brain in a Vat Argument](https://www.iep.utm.edu/brainvat/)
 
 
-<a id="org38366bf"></a>
+<a id="org7930d2f"></a>
 
 ### [The Computational Theory of Mind](https://www.iep.utm.edu/compmind/)
 
 
-<a id="org344aaaf"></a>
+<a id="orgbb6fd27"></a>
 
 ## Wikipedia
 
 
-<a id="orge519d0e"></a>
+<a id="orgf35018a"></a>
 
 ### [Constraint logic programming](https://en.wikipedia.org/wiki/Constraint_logic_programming)
 
 
-<a id="orgd5726ea"></a>
+<a id="org19fa3b0"></a>
 
 ### [Logic Programming](https://en.wikipedia.org/wiki/Logic_programming)
 
@@ -245,75 +246,75 @@
 -   [Inductive logic programming](https://en.wikipedia.org/wiki/Inductive_logic_programming)
 
 
-<a id="org1c5cbec"></a>
+<a id="org37380af"></a>
 
 ### [Negation as failure](https://en.wikipedia.org/wiki/Negation_as_failure)
 
 ---
 
 
-<a id="org6b64ea6"></a>
+<a id="org90d2f10"></a>
 
 # Bibliographies
 
 
-<a id="orge38bdf1"></a>
+<a id="orgf270438"></a>
 
 ## [Philosophy of Computing and Information at PhilPapers](https://philpapers.org/browse/philosophy-of-computing-and-information)
 
 
-<a id="org49890f5"></a>
+<a id="org03c5fac"></a>
 
 ## [Philosophy of Computer Science at DBLP](https://dblp.uni-trier.de/search?q=philosophy%20of%20computer%20science)
 
 ---
 
 
-<a id="orgadf930a"></a>
+<a id="org79e5dab"></a>
 
 # Books
 
 
-<a id="org88c9010"></a>
+<a id="orga38e420"></a>
 
 ## Freely available
 
 
-<a id="orgff47675"></a>
+<a id="orgaa82d9e"></a>
 
 ### [Philosophy of Computer Science by William Rapaport](https://cse.buffalo.edu/~rapaport/Papers/phics.pdf)
 
 
-<a id="orgf308eef"></a>
+<a id="org5205e10"></a>
 
 ### [Think Complexity, Second Edition by Allen Downey](http://greenteapress.com/wp/think-complexity-2e/)
 
 ---
 
 
-<a id="org9f4418c"></a>
+<a id="org23d2f47"></a>
 
 # Ontology of Philosophy of Computer Science
 
 
-<a id="org0524a3e"></a>
+<a id="org5d4d3b3"></a>
 
 ## [Internet Philosophy Ontology Project](https://www.inphoproject.org/taxonomy/2301)
 
 ---
 
 
-<a id="orga96ac6a"></a>
+<a id="org7c1e6cb"></a>
 
 # Blogs
 
 
-<a id="org93a246a"></a>
+<a id="org72c70d8"></a>
 
 ## [Gödel's Lost Letter and P=NP](https://rjlipton.wordpress.com)
 
 
-<a id="org1aac916"></a>
+<a id="org54a8837"></a>
 
 ## [The n-Category Café](https://golem.ph.utexas.edu/category/)
 
@@ -322,48 +323,48 @@ There is an associated [wiki](https://ncatlab.org/nlab/show/HomePage).
 “The nLab is a collaborative wiki. It grew out of the desire (I, II) to have a place for development (the ’Lab’ in ’nLab’) and indexed archives of the ideas and concepts surrounding the discussions at the The n-Category Café. These discussions primarily are about mathematics, physics and philosophy from the perspective of category theory and higher category theory (the ’n’ in ’nLab’ and nPOV).“
 
 
-<a id="org49253f0"></a>
+<a id="org012daa5"></a>
 
 ## [Shtetl-Optimized](https://www.scottaaronson.com/blog/)
 
 ---
 
 
-<a id="org42683bc"></a>
+<a id="org99b8bfc"></a>
 
 # Organizations and Societies
 
 
-<a id="org42daa2b"></a>
+<a id="org17e4d08"></a>
 
 ## [Association for Logic Programming](https://www.cs.nmsu.edu/ALP/)
 
 
-<a id="orgf593e4e"></a>
+<a id="org55ba6eb"></a>
 
 ## [International Association for Computing And Philosophy](http://www.iacap.org)
 
 ---
 
 
-<a id="orgad7c6eb"></a>
+<a id="orgaace028"></a>
 
 # Conferences and Symposia
 
 
-<a id="orgd3ec068"></a>
+<a id="org0391546"></a>
 
 ## [ACM/IEEE Symposium on Logic in Computer Science](https://lics.siglog.org)
 
 ---
 
 
-<a id="orgecb8d8a"></a>
+<a id="orgf967d47"></a>
 
 # Logic
 
 
-<a id="orgdec0d01"></a>
+<a id="org2db500e"></a>
 
 ## [An Automated Modal Reasoner](https://briantackett.pythonanywhere.com)
 
@@ -371,7 +372,14 @@ There is an associated [wiki](https://ncatlab.org/nlab/show/HomePage).
 Created by [Brian Tackett](https://briantackett.pythonanywhere.com/about/).
 
 
-<a id="org9addfac"></a>
+<a id="org3813dd8"></a>
+
+## [Arend Theorem Prover](https://arend-lang.github.io/about/)
+
+‘Arend implements a version of [homotopy type theory](https://homotopytypetheory.org) with an interval type, which syntax is similar to [cubical type theory](https://ncatlab.org/nlab/show/cubical+type+theory). This implies several nice properties of path types and allows for a simple and clean definition of higher inductive types (including recursive ones).’
+
+
+<a id="org816d8d2"></a>
 
 ## [Carnap](https://carnap.io)
 
@@ -379,58 +387,58 @@ Created by [Brian Tackett](https://briantackett.pythonanywhere.com/about/).
 [An introductory blog post](http://dailynous.com/2018/11/07/new-free-open-source-multi-purpose-multi-system-logic-software/ ) by the author, [Graham Leach-Krouse](https://philpeople.org/profiles/graham-leach-krouse-1) at [Daily Nous](http://dailynous.com).
 
 
-<a id="orge61c314"></a>
+<a id="orgad0e930"></a>
 
 ## [Conan](https://github.com/nonilole/Conan)- A proof editor for first order logic
 
 
-<a id="orgd83bb17"></a>
+<a id="org04a57a7"></a>
 
 ## [Coq Proof Assistant](https://coq.inria.fr)
 
 Written in [OCaml](https://ocaml.org), "Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [certification of properties of programming languages](https://github.com/coq/coq/wiki/List%20of%20Coq%20PL%20Projects) (e.g. the CompCert compiler certification project, or the Bedrock verified low-level programming library), the formalization of mathematics (e.g. the full formalization of the Feit-Thompson theorem or homotopy type theory) and teaching."
 
 
-<a id="orgc8bc23c"></a>
+<a id="orgada4ba4"></a>
 
 ### [GitHub repository](https://github.com/coq/coq)
 
 
-<a id="org120120d"></a>
+<a id="orgc8b93db"></a>
 
 ### Home page of [Wiki](https://github.com/coq/coq/wiki)
 
 
-<a id="orgcb369f7"></a>
+<a id="orgb9e7875"></a>
 
 ## [GAPT: General Architecture for Proof Theory](https://www.logic.at/gapt/)
 
 ‘GAPT is a proof theory framework developed primarily at the Vienna University of Technology. GAPT contains data structures, algorithms, parsers and other components common in proof theory and automated deduction. In contrast to automated and interactive theorem provers whose focus is the construction of proofs, GAPT concentrates on the transformation and further processing of proofs.’
 
 
-<a id="org641f485"></a>
+<a id="orgdb1f25c"></a>
 
 ## [List of Computational Tools for Modal Logic](http://www.cs.man.ac.uk/~schmidt/tools/)
 
 
-<a id="org309c762"></a>
+<a id="org840e217"></a>
 
 ## [Logic Matters](https://www.logicmatters.net)
 
 
-<a id="org8c620b6"></a>
+<a id="org4b1771b"></a>
 
 ## [Microsoft's Lean](https://leanprover.github.io/)
 
 "Lean is an open source theorem prover and programming language being developed at [Microsoft Research](https://www.microsoft.com/en-us/research/). Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs."
 
 
-<a id="orgda21c43"></a>
+<a id="orgea4f939"></a>
 
 ## [Open Logic Project](http://openlogicproject.org)
 
 
-<a id="org9e835bb"></a>
+<a id="orge51dba4"></a>
 
 ## [Proof General](https://proofgeneral.github.io)
 
@@ -438,14 +446,14 @@ Written in [OCaml](https://ocaml.org), "Coq is a formal proof management system.
 Since I'm an Emacs user, this has strong appeal.
 
 
-<a id="org40eb8f7"></a>
+<a id="org4593c7b"></a>
 
 ## [SymPy Logic Module](https://docs.sympy.org/latest/modules/logic.html)
 
 "The logic module for SymPy allows to form and manipulate logic expressions using symbolic and Boolean values."
 
 
-<a id="org548c4ae"></a>
+<a id="orgf8986ec"></a>
 
 ## [Taut](https://www.taut-logic.com)
 
@@ -454,19 +462,19 @@ Since I'm an Emacs user, this has strong appeal.
 ---
 
 
-<a id="orgd8e019d"></a>
+<a id="orgb1895bb"></a>
 
 # Programming Languages and Libraries
 
 
-<a id="orgce75e20"></a>
+<a id="orgf0f51b5"></a>
 
 ## [Metamath](http://us.metamath.org/index.html)
 
 ‘Metamath is a tiny language that can express theorems in abstract mathematics, accompanied by proofs that can be verified by a computer program.’
 
 
-<a id="orgb072048"></a>
+<a id="orgb047549"></a>
 
 ## [miniKanren](http://minikanren.org)
 
@@ -476,12 +484,12 @@ Since I'm an Emacs user, this has strong appeal.
 Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other languages."
 
 
-<a id="orgda5b2e2"></a>
+<a id="org41789db"></a>
 
 ## Lisp
 
 
-<a id="org28f7c65"></a>
+<a id="org39d01b0"></a>
 
 ### [Common Lisp](https://common-lisp.net)
 
@@ -492,32 +500,32 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
     "If you think the greatest pleasure in programming comes from getting a lot done with code that simply and clearly expresses your intention, then programming in Common Lisp is likely to be about the most fun you can have with a computer. You'll get more done, faster, using it than you would using pretty much any other language."
 
 
-<a id="orgae7915a"></a>
+<a id="org8a28dd1"></a>
 
 ### [Clojure](https://clojure.org)
 
 
-<a id="orgbba712a"></a>
+<a id="org7e87c6a"></a>
 
 ### [Scheme](https://schemers.org)
 
 
-<a id="orgb46273c"></a>
+<a id="orgb4945e8"></a>
 
 ## Prolog
 
 
-<a id="orgc96d2b3"></a>
+<a id="org1b8f6ee"></a>
 
 ### [A. Aaby's Prolog Tutorial](http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html)
 
 
-<a id="org7ed2362"></a>
+<a id="orge36a1e2"></a>
 
 ### [J.R. Fisher's Prolog Tutorial](https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
 
 
-<a id="org467481b"></a>
+<a id="org375df34"></a>
 
 ### [Metagol](https://github.com/metagol/metagol)
 
@@ -525,48 +533,48 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
 Metagol is written in Prolog and runs with SWI-Prolog.’
 
 
-<a id="orge81782b"></a>
+<a id="orgd1af4c0"></a>
 
 ### [SWI-Prolog](https://www.swi-prolog.org)
 
 
-<a id="orgae7ce97"></a>
+<a id="org4b3b3c6"></a>
 
 ### [Wikibooks Prolog](https://en.wikibooks.org/wiki/Prolog)
 
 
-<a id="org47c7ed9"></a>
+<a id="org9687ebc"></a>
 
 ## [Picat](http://www.picat-lang.org)
 
 ‘Picat is a simple, and yet powerful, logic-based multi-paradigm programming language aimed for general-purpose applications.’
 
 
-<a id="org454ed86"></a>
+<a id="org2975253"></a>
 
 ## Python
 
 
-<a id="orgf912f9c"></a>
+<a id="org8291076"></a>
 
 ### [kanren](https://github.com/logpy/logpy)
 
 "Logic Programming in Python"
 
 
-<a id="org4671268"></a>
+<a id="org8db1ce7"></a>
 
 ### [PySWIP](https://github.com/yuce/pyswip)
 
 "PySWIP is a Python - SWI-Prolog bridge enabling to query SWI-Prolog in your Python programs. It features an (incomplete) SWI-Prolog foreign language interface, a utility class that makes it easy querying with Prolog and also a Pythonic interface."
 
 
-<a id="orgc3e8151"></a>
+<a id="orgde03b0e"></a>
 
 ### [truths - auto generate truth tables](https://github.com/tr3buchet/truths)
 
 
-<a id="orgf72218b"></a>
+<a id="orgc77b688"></a>
 
 ### [tt - the Boolean expression toolbox](https://tt.brianwel.ch/en/latest/)
 
@@ -575,55 +583,55 @@ tt (truth table) is a library aiming to provide a Pythonic toolkit for working w
 ---
 
 
-<a id="org2d3ee9f"></a>
+<a id="orgaf6036b"></a>
 
 # Digital Philosophy
 
 
-<a id="org5b1f412"></a>
+<a id="org585f88a"></a>
 
 ## [Articles tagged "digital humanities" at Daily Nous](http://dailynous.com/tag/digital-humanities/)
 
 
-<a id="org0e95dee"></a>
+<a id="org75f8d6b"></a>
 
 ## [Chris Alen Sula](http://chrisalensula.org)
 
 "My work applies visualization and network science to humanities datasets, especially the history of philosophy. I also write on digital humanities and the politics of technology."
 
 
-<a id="orga309a58"></a>
+<a id="org41e1466"></a>
 
 ## [Philosopher's Web](https://kumu.io/GOliveira/philosophers-web#map-b9Ts7W5r)
 
 A comprehensive map of all influential relationships in philosophy according to Wikipedia.
 
 
-<a id="org2e990c5"></a>
+<a id="orga2ac6ec"></a>
 
 ## [The Philosophome](http://ontology.buffalo.edu/philosophome.org.html)
 
 
-<a id="orgcc11d15"></a>
+<a id="org18e1c39"></a>
 
 ## [Spinoza's Ethics 2.0](https://ethics.spinozism.org)
 
 Created by [Torin Doppelt](https://www.torindoppelt.com)
 
 
-<a id="orgfd50fcc"></a>
+<a id="org19713ae"></a>
 
 ### [Digital Spinozism](https://www.torindoppelt.com/#posts)
 
 Accompanying blog to Spinoza's Ethics 2.0
 
 
-<a id="org2eb2045"></a>
+<a id="org4105fd6"></a>
 
 ## [Transcribing Bentham](https://blogs.ucl.ac.uk/transcribe-bentham/)
 
 
-<a id="org31a83c0"></a>
+<a id="org0747d73"></a>
 
 ## [Why and How: Exploring the Significance of Digital Humanities for Philosophy](https://digitalscholarship.files.wordpress.com/2013/02/spirowhydhapaphilosophy2013fnal.pdf)
 
@@ -632,65 +640,65 @@ This is a presentation by Lisa Spirohttps://digitalscholarship.wordpress.com)
 ---
 
 
-<a id="org89e69bb"></a>
+<a id="org845edeb"></a>
 
 # University Departments and Research Centers
 
 
-<a id="org52f1d2d"></a>
+<a id="org6c9872d"></a>
 
 ## [Philosophy of Computer Science - Utrecht University](http://www.cs.uu.nl/groups/AD/index-phil.html)
 
 ---
 
 
-<a id="orgb45c6c3"></a>
+<a id="org8811ebf"></a>
 
 # Magazines and Newsletters
 
 
-<a id="org0fa1e2a"></a>
+<a id="org4b23308"></a>
 
 ## [ACM Transactions on Computational Logic (TOCL)](https://tocl.acm.org)
 
 "For the purposes of ACM Transactions on Computational Logic, the field of computational logic consists of all uses of logic in computer science."
 
 
-<a id="orgbf49b7d"></a>
+<a id="org3f76a6c"></a>
 
 ## [Newsletter on Philosophy and Computers](https://www.apaonline.org/page/computers_newsletter) - American Philosophical Association
 
 ---
 
 
-<a id="org35c7c95"></a>
+<a id="org19df8b1"></a>
 
 # Individual Philosophers
 
 
-<a id="orgd139b56"></a>
+<a id="orgd81d3bf"></a>
 
 ## [Peter Bradley](http://www.kaley-bradley.com)
 
 
-<a id="org44d8a83"></a>
+<a id="org515dc58"></a>
 
 ## [Luciano Floridi](http://www.philosophyofinformation.net/about/)
 
 
-<a id="orgb46b59f"></a>
+<a id="org7f86c1d"></a>
 
 ## [William J. Rapaport](https://cse.buffalo.edu/~rapaport/)
 
 ---
 
 
-<a id="orgdcfa21d"></a>
+<a id="org1f2e487"></a>
 
 # Philosophical Networks
 
 
-<a id="org397e3ea"></a>
+<a id="orgf5c355c"></a>
 
 ## [Philosophical Wordnets](https://github.com/mboudour/WordNets/tree/master/Philosophical%20WordNets)
 
@@ -699,12 +707,12 @@ Contributed by [Moses Boudorides](https://github.com/mboudour), a series of Jupy
 ---
 
 
-<a id="orgce8b438"></a>
+<a id="org1104777"></a>
 
 # Software for Philosophers
 
 
-<a id="org30add68"></a>
+<a id="orgc6df17d"></a>
 
 ## [Hypernomicon](http://hypernomicon.org)
 
