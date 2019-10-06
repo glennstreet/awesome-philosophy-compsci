@@ -111,6 +111,8 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
 *** [[https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html][J.R. Fisher's Prolog Tutorial]]
 *** [[https://www.swi-prolog.org][SWI-Prolog]]
 *** [[https://en.wikibooks.org/wiki/Prolog][Wikibooks Prolog]]
+** [[http://www.picat-lang.org][Picat]]
+‘Picat is a simple, and yet powerful, logic-based multi-paradigm programming language aimed for general-purpose applications.’
 ** Python
 *** [[https://github.com/logpy/logpy][kanren]]
 "Logic Programming in Python"
