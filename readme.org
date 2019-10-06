@@ -78,6 +78,8 @@ Created by [[https://briantackett.pythonanywhere.com/about/][Brian Tackett]].
 Written in [[https://ocaml.org][OCaml]], "Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs. Typical applications include the [[https://github.com/coq/coq/wiki/List%2520of%2520Coq%2520PL%2520Projects][certification of properties of programming languages]] (e.g. the CompCert compiler certification project, or the Bedrock verified low-level programming library), the formalization of mathematics (e.g. the full formalization of the Feit-Thompson theorem or homotopy type theory) and teaching."
 *** [[https://github.com/coq/coq][GitHub repository]]
 *** Home page of [[https://github.com/coq/coq/wiki][Wiki]]
+** [[https://www.logic.at/gapt/][GAPT: General Architecture for Proof Theory]]
+‘GAPT is a proof theory framework developed primarily at the Vienna University of Technology. GAPT contains data structures, algorithms, parsers and other components common in proof theory and automated deduction. In contrast to automated and interactive theorem provers whose focus is the construction of proofs, GAPT concentrates on the transformation and further processing of proofs.’
 ** [[http://www.cs.man.ac.uk/~schmidt/tools/][List of Computational Tools for Modal Logic]]
 ** [[https://www.logicmatters.net][Logic Matters]]
 ** [[https://leanprover.github.io/][Microsoft's Lean]]
