@@ -2,6 +2,7 @@
 #+EXPORT_FILE_NAME: README
 
 *A curated list of awesome resources that bridge Philosophy and Computer Science.*
+Last update: *2020-12-03*
 
 * Related Sites
 ** [[http://philocomp.net][PhiloComp]]
@@ -164,5 +165,7 @@ Accompanying blog to Spinoza's Ethics 2.0
 Contributed by [[https://github.com/mboudour][Moses Boudorides]], a series of Jupyter notebooks showing sentence-co-occurring relationships among concepts. Works analyzed include Heidegger's "The Question Concerning Technology" and Nietzsche's "Thus Spake Zarathustra".
 -----
 * Software for Philosophers
+** [[https://appsolutelyfun.com/argumap.html][ArguMap]]
+An iOS app for creating argument maps.
 ** [[http://hypernomicon.org][Hypernomicon]]
 "Personal philosophy database software," created by [[http://jasonwinning.com][Jason Winning]].
