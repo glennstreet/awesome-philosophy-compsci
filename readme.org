@@ -53,6 +53,8 @@ Last update: *2020-12-03*
 ** [[https://www.inphoproject.org/taxonomy/2301][Internet Philosophy Ontology Project]]
 -----
 * Blogs
+** [[https://bartoszmilewski.com][Bartosz Milewski's Programming Cafe]]
+“Category Theory, Haskell, Concurrency, C++”
 ** [[https://rjlipton.wordpress.com][Gödel's Lost Letter and P=NP]]
 ** [[https://golem.ph.utexas.edu/category/][The n-Category Café]]
 "A group blog on math, physics and philosophy".
