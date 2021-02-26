@@ -116,6 +116,8 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
 *** [[https://clojure.org][Clojure]]
 *** [[https://schemers.org][Scheme]]
 ** Prolog
+*** [[https://github.com/klaussinani/awesome-prolog][Awesome Prolog]]
+A GitHub repository of Prolog awesomeness.
 *** [[http://www.lix.polytechnique.fr/~liberti/public/computing/prog/prolog/prolog-tutorial.html][A. Aaby's Prolog Tutorial]]
 *** [[https://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html][J.R. Fisher's Prolog Tutorial]]
 *** [[https://github.com/metagol/metagol][Metagol]]
