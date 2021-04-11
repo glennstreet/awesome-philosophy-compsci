@@ -2,7 +2,7 @@
 #+EXPORT_FILE_NAME: README
 
 *A curated list of awesome resources that bridge Philosophy and Computer Science.*
-Last update: *2020-12-03*
+Last update: *2021-04-11*
 
 * Related Sites
 ** [[http://philocomp.net][PhiloComp]]
@@ -160,9 +160,20 @@ Accompanying blog to Spinoza's Ethics 2.0
 ** [[https://www.apaonline.org/page/computers_newsletter][Newsletter on Philosophy and Computers]] - American Philosophical Association 
 -----
 * Individual Philosophers
+** [[https://colinallen.dnsalias.org/index.shtml][Colin Allen]]
+** [[http://www.ruskin.tv/maggieb/index.asp][Margaret A. Boden]]
 ** [[http://www.kaley-bradley.com][Peter Bradley]]
+** [[http://consc.net][David Chalmers]]
+** Jack Copeland
+*** [[https://www.canterbury.ac.nz/arts/contact-us/people/jack-copeland.html][Staff page]]
+*** [[https://researchprofile.canterbury.ac.nz/Researcher.aspx?Researcherid=86390][Research profile]]
+** [[https://ase.tufts.edu/cogstud/dennett/index.html][Daniel C. Dennett]]
 ** [[http://www.philosophyofinformation.net/about/][Luciano Floridi]]
+** [[https://nissenbaum.tech.cornell.edu][Helen Nissenbaum]]
+** [[http://www.umsl.edu/~piccininig/][Gualtiero Piccinini]]
 ** [[https://cse.buffalo.edu/~rapaport/][William J. Rapaport]]
+** [[https://www.cs.bham.ac.uk/~axs/][Aaron Sloman]]
+** [[http://mally.stanford.edu/zalta.html][Edward N. Zalta]]
 -----
 * Philosophical Networks
 ** [[https://github.com/mboudour/WordNets/tree/master/Philosophical%2520WordNets][Philosophical Wordnets]]
