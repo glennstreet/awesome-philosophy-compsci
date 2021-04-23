@@ -116,6 +116,8 @@ Haskell, Python, JavaScript, Scala, Ruby, OCaml, and PHP, among many other langu
 "If you think the greatest pleasure in programming comes from getting a lot done with code that simply and clearly expresses your intention, then programming in Common Lisp is likely to be about the most fun you can have with a computer. You'll get more done, faster, using it than you would using pretty much any other language."
 *** [[https://clojure.org][Clojure]]
 *** [[https://schemers.org][Scheme]]
+** [[https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html][Logica]]
+  ‘We present Logica, a novel open source Logic Programming language. A successor to Yedalog (a language developed at Google earlier) it is a Datalog-like logic programming language. Logica code compiles to SQL and runs on Google BigQuery (with experimental support for PostgreSQL and SQLite), but it is much more concise and supports the clean and reusable abstraction mechanisms that SQL lacks. It supports modules and imports, it can be used from an interactive Python notebook and it even makes testing your queries natural and easy.’
 ** Prolog
 *** [[https://github.com/klaussinani/awesome-prolog][Awesome Prolog]]
 A GitHub repository of Prolog awesomeness.
