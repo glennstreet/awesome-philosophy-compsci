@@ -56,6 +56,8 @@ Last update: *2021-04-11*
 ** [[https://bartoszmilewski.com][Bartosz Milewski's Programming Cafe]]
 “Category Theory, Haskell, Concurrency, C++”
 ** [[https://rjlipton.wordpress.com][Gödel's Lost Letter and P=NP]]
+** [[https://www.hillelwayne.com/post/][Hillel Wayne's blog]]
+   Formal methods, including TLA+ and Alloy.
 ** [[https://golem.ph.utexas.edu/category/][The n-Category Café]]
 "A group blog on math, physics and philosophy".
 There is an associated [[https://ncatlab.org/nlab/show/HomePage][wiki]].
