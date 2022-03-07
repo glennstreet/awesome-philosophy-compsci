@@ -178,6 +178,8 @@ Accompanying blog to Spinoza's Ethics 2.0
 *** [[https://researchprofile.canterbury.ac.nz/Researcher.aspx?Researcherid=86390][Research profile]]
 ** [[https://ase.tufts.edu/cogstud/dennett/index.html][Daniel C. Dennett]]
 ** [[http://www.philosophyofinformation.net/about/][Luciano Floridi]]
+** [[https://johnmacfarlane.net][John MacFarlane]]
+   John is the creator of [[https://pandoc.org/index.html][Pandoc]].
 ** [[https://nissenbaum.tech.cornell.edu][Helen Nissenbaum]]
 ** [[http://www.umsl.edu/~piccininig/][Gualtiero Piccinini]]
 ** [[https://cse.buffalo.edu/~rapaport/][William J. Rapaport]]
