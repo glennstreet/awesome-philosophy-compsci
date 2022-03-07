@@ -2,7 +2,7 @@
 #+EXPORT_FILE_NAME: README
 
 *A curated list of awesome resources that bridge Philosophy and Computer Science.*
-Last update: *2021-04-11*
+Last update: *2022-03-06*
 
 * Related Sites
 ** [[http://philocomp.net][PhiloComp]]
@@ -128,6 +128,8 @@ A GitHub repository of Prolog awesomeness.
 *** [[https://github.com/metagol/metagol][Metagol]]
 ‘Metagol is an inductive logic programming (ILP) system based on meta-interpretive learning.
 Metagol is written in Prolog and runs with SWI-Prolog.’
+*** [[https://github.com/lf94/paizo-prolog][Paizo Prolog]]
+'An ergonomic, mobile-first, Prolog playground!'
 *** [[https://prologhub.com/][PrologHub]]
 "PrologHub is dedicated to bringing together the Prolog community to share ideas and knowledge. Our aim is to encourage the growth and development of the community."
 *** [[https://www.swi-prolog.org][SWI-Prolog]]
