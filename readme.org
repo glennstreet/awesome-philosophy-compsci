@@ -2,7 +2,7 @@
 #+EXPORT_FILE_NAME: README
 
 *A curated list of awesome resources that bridge Philosophy and Computer Science.*
-Last update: *2022-03-06*
+Last update: *2023-02-06*
 
 * Related Sites
 ** [[http://philocomp.net][PhiloComp]]
@@ -46,6 +46,7 @@ Last update: *2022-03-06*
 -----
 * Books
 ** Freely available
+*** [[https://www.logicthrupython.org][Mathematical Logic through Python]]
 *** [[https://cse.buffalo.edu/~rapaport/Papers/phics.pdf][Philosophy of Computer Science by William Rapaport]]
 *** [[http://greenteapress.com/wp/think-complexity-2e/][Think Complexity, Second Edition by Allen Downey]]
 -----
