@@ -46,6 +46,8 @@ Last update: *2023-02-06*
 -----
 * Books
 ** Freely available
+*** A [[https://dailynous.com/2023/07/10/logic-courseware-surveyed/][review]] of Logic Courseware and free and open access texts at Daily Nous
+*** [[http://www.logicinaction.org][Logic in Action]]
 *** [[https://www.logicthrupython.org][Mathematical Logic through Python]]
 *** [[https://cse.buffalo.edu/~rapaport/Papers/phics.pdf][Philosophy of Computer Science by William Rapaport]]
 *** [[http://greenteapress.com/wp/think-complexity-2e/][Think Complexity, Second Edition by Allen Downey]]
