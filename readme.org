@@ -2,7 +2,7 @@
 #+EXPORT_FILE_NAME: README
 
 *A curated list of awesome resources that bridge Philosophy and Computer Science.*
-Last update: *2023-02-06*
+Last update: *2023-09-25*
 
 * Related Sites
 ** [[http://philocomp.net][PhiloComp]]
@@ -49,7 +49,6 @@ Last update: *2023-02-06*
 *** A [[https://dailynous.com/2023/07/10/logic-courseware-surveyed/][review]] of Logic Courseware and free and open access texts at Daily Nous
 *** [[http://www.logicinaction.org][Logic in Action]]
 *** [[https://www.logicthrupython.org][Mathematical Logic through Python]]
-*** [[https://cse.buffalo.edu/~rapaport/Papers/phics.pdf][Philosophy of Computer Science by William Rapaport]]
 *** [[http://greenteapress.com/wp/think-complexity-2e/][Think Complexity, Second Edition by Allen Downey]]
 -----
 * Ontology of Philosophy of Computer Science
