@@ -2,7 +2,7 @@
 #+EXPORT_FILE_NAME: README
 
 *A curated list of awesome resources that bridge Philosophy and Computer Science.*
-Last update: *2023-09-25*
+Last update: *2023-11-25*
 
 * Related Sites
 ** [[http://philocomp.net][PhiloComp]]
@@ -197,3 +197,7 @@ Contributed by [[https://github.com/mboudour][Moses Boudorides]], a series of Ju
 An iOS app for creating argument maps.
 ** [[http://hypernomicon.org][Hypernomicon]]
 "Personal philosophy database software," created by [[http://jasonwinning.com][Jason Winning]].
+
+* Textbooks (not free)
+** [[https://www.wiley.com/en-us/Philosophy+of+Computer+Science%3A+An+Introduction+to+the+Issues+and+the+Literature-p-9781119891925][Philosophy of Computer Science]] - William J. Rapaport
+** [[https://www.routledge.com/Philosophy-through-Computer-Science-An-Introduction/Lim/p/book/9781032221366][Philosophy through Computer Science]] - Daniel Lim
