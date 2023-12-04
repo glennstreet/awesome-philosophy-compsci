@@ -199,5 +199,6 @@ An iOS app for creating argument maps.
 "Personal philosophy database software," created by [[http://jasonwinning.com][Jason Winning]].
 
 * Textbooks (not free)
+** [[https://broadviewpress.com/product/more-precisely-the-math-you-need-to-do-philosophy-second-edition/#tab-description][More Precisely: The Math You Need to Do Philosophy – Second Edition]] - Eric Steinhart
 ** [[https://www.wiley.com/en-us/Philosophy+of+Computer+Science%3A+An+Introduction+to+the+Issues+and+the+Literature-p-9781119891925][Philosophy of Computer Science]] - William J. Rapaport
 ** [[https://www.routledge.com/Philosophy-through-Computer-Science-An-Introduction/Lim/p/book/9781032221366][Philosophy through Computer Science]] - Daniel Lim
