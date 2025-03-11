@@ -93,6 +93,8 @@ Written in [[https://ocaml.org][OCaml]], "Coq is a formal proof management syste
 ** [[https://www.logic.at/gapt/][GAPT: General Architecture for Proof Theory]]
 ‘GAPT is a proof theory framework developed primarily at the Vienna University of Technology. GAPT contains data structures, algorithms, parsers and other components common in proof theory and automated deduction. In contrast to automated and interactive theorem provers whose focus is the construction of proofs, GAPT concentrates on the transformation and further processing of proofs.’
 ** [[http://www.cs.man.ac.uk/~schmidt/tools/][List of Computational Tools for Modal Logic]]
+** [[https://github.com/avigad/lamr?tab=readme-ov-file][Logic and Mechanized Reasoning]]
+This GitHub repository contains an in-progress textbook for a [[https://www.cs.cmu.edu/~mheule/15311-s25/][course]] offered by Caregie Mellon.
 ** [[https://www.logicmatters.net][Logic Matters]]
 ** [[https://leanprover.github.io/][Microsoft's Lean]]
 "Lean is an open source theorem prover and programming language being developed at [[https://www.microsoft.com/en-us/research/][Microsoft Research]]. Lean aims to bridge the gap between interactive and automated theorem proving, by situating automated tools and methods in a framework that supports user interaction and the construction of fully specified axiomatic proofs."
