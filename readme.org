@@ -108,8 +108,10 @@ Since I'm an Emacs user, this has strong appeal.
 "This is a website that contains randomly-generated, self-correcting logic excercises. It runs directly on your browser, so there is no need to download anything. It was designed by [[https://sites.google.com/view/ariel-roffe/home][Ariel Roffé]] (UBA / UNQ / CONICET), with support from the [[http://ba-logic.com][BA-Logic]] group"
 -----
 * Programming Languages and Libraries
+** [[https://curry-lang.org][Curry]]
+"Curry is a declarative multi-paradigm programming language which combines in a seamless way features from functional programming (nested expressions, higher-order functions, strong typing, lazy evaluation) and logic programming (non-determinism, built-in search, free variables, partial data structures)."
 ** [[http://us.metamath.org/index.html][Metamath]]
-‘Metamath is a tiny language that can express theorems in abstract mathematics, accompanied by proofs that can be verified by a computer program.’
+"Metamath is a tiny language that can express theorems in abstract mathematics, accompanied by proofs that can be verified by a computer program."
 ** [[http://minikanren.org][miniKanren]]
 "miniKanren is an embedded Domain Specific Language for logic programming."
 
